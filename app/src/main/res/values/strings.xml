@@ -21,6 +21,13 @@
     <string name="small_heart">small heart</string>
     <string name="medium_heart">medium heart</string>
     <string name="large_heart">large heart</string>
+
     <string name="reset">Reset</string>
-    <string name="set_starting_number">Set Starting Number</string>
+    <string name="edit_starting_number">Edit Starting Number</string>
+    <string name="settings_number_key" translatable="false">number</string>
+    <string name="settings_number_default" translatable="false">0</string>
+    <string name="settings_starting_number_key" translatable="false">starting_number_key</string>
+    <string name="settings_starting_number_default" translatable="false">0</string>
+    <string name="button_edit_starting_number">Set Starting Number</string>
+    <string name="action_save_starting_number">Save Starting Number</string>
 </resources>

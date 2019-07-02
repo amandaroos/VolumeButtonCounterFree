@@ -25,5 +25,16 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
+        <activity
+            android:name="com.amandafarrell.www.volumebuttoncounterfree.EditStartingNumberActivity"
+            android:parentActivityName="com.amandafarrell.www.volumebuttoncounterfree.MainActivity"
+            android:windowSoftInputMode="stateVisible"
+            android:label="@string/edit_starting_number"
+            android:theme="@style/EditTheme">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.amandafarrell.www.volumebuttoncounterfree.MainActivity" />
+        </activity>
     </application>
 </manifest>
