@@ -30,4 +30,5 @@
     <string name="settings_starting_number_default" translatable="false">0</string>
     <string name="button_edit_starting_number">Set Starting Number</string>
     <string name="action_save_starting_number">Save Starting Number</string>
+    <string name="large_number_error_toast">Error: number is too large</string>
 </resources>

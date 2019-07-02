@@ -9,6 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.inputmethod.EditorInfo;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class EditStartingNumberActivity extends AppCompatActivity {
 
@@ -68,7 +69,16 @@ public class EditStartingNumberActivity extends AppCompatActivity {
     }
 
     public void saveStartingNumber (){
-        starting_number = Integer.valueOf(startingNumberTextView.getText().toString());
+
+        //Check the input
+        try{
+            starting_number = Integer.valueOf(startingNumberTextView.getText().toString());
+        }
+        catch (Exception e){
+            Toast.makeText(this, R.string.large_number_error_toast, Toast.LENGTH_LONG).show();
+
+            startingNumberTextView.setText("");
+        }
 
         //Save new starting number to SharedPreferences
         sharedPreferences.edit()
