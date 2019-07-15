@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">ಡೆವಲಪರ್‌ಗೆ ದಾನ ಮಾಡಿ</string>
+    <string name="small_heart">ಸಣ್ಣ ಹೃದಯ</string>
+    <string name="reset">ಮರುಹೊಂದಿಸಿ</string>
+    <string name="medium_heart">ಮಧ್ಯಮ ಹೃದಯ</string>
+    <string name="large_number_error_toast">ದೋಷ: ಸಂಖ್ಯೆ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ</string> 
+    <string name="large_heart">ದೊಡ್ಡ ಹೃದಯ</string> 
+    <string name="large">ದೊಡ್ಡದು</string> 
+    <string name="edit_starting_number">ಪ್ರಾರಂಭ ಸಂಖ್ಯೆಯನ್ನು ಸಂಪಾದಿಸಿ</string> 
+    <string name="donate_title">ದಾನ</string> 
+    <string name="donate_message">ನನ್ನ ಹೆಸರು ಅಮಂಡಾ. ನಾನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ನೀವು ಆನಂದಿಸುತ್ತಿದ್ದರೆ, ದಯವಿಟ್ಟು ದೇಣಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಖರೀದಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ ದೇಣಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಏನನ್ನೂ ಮಾಡುವುದಿಲ್ಲ, ಆದರೆ ನಿಮ್ಮ ದೇಣಿಗೆ ನನಗೆ ಉಚಿತ, ಯಾವುದೇ ಜಾಹೀರಾತುಗಳ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ಕಳೆದ ಸಮಯವನ್ನು ಪ್ರಶಂಸಿಸುತ್ತದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ. ಧನ್ಯವಾದಗಳು!</string> 
+    <string name="donate_greeting">ಹಲೋ!</string> 
+    <string name="action_save_starting_number">ಆರಂಭಿಕ ಸಂಖ್ಯೆಯನ್ನು ಉಳಿಸಿ</string> 
+    <string name="small">ಸಣ್ಣ</string> 
+    <string name="medium">ಮಧ್ಯಮ</string> 
+    <string name="app_name">ಸಂಪುಟ ಬಟನ್ ಕೌಂಟರ್</string> 
+ </resources>

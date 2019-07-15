@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">ਡਿਵੈਲਪਰ ਨੂੰ ਦਾਨ ਦਿਓ</string>
+    <string name="small_heart">ਛੋਟੇ ਦਿਲ</string>
+    <string name="reset">ਰੀਸੈਟ ਕਰੋ</string>
+    <string name="medium_heart">ਮੱਧਮ ਦਿਲ</string>
+    <string name="large_number_error_toast">ਗਲਤੀ: ਨੰਬਰ ਬਹੁਤ ਵੱਡਾ ਹੈ</string> 
+    <string name="large_heart">ਵੱਡਾ ਦਿਲ</string> 
+    <string name="large">ਵੱਡਾ</string> 
+    <string name="edit_starting_number">ਸੰਪਾਦਨ ਸ਼ੁਰੂਆਤ ਨੰਬਰ</string> 
+    <string name="donate_title">ਵੱਡਾ</string>
+    <string name="donate_message">ਮੇਰਾ ਨਾਂ ਅਮਾਂਡਾ ਹੈ ਜੇ ਤੁਸੀਂ ਇਸ ਐਪਲੀਕੇਸ਼ ਦਾ ਅਨੰਦ ਮਾਣ ਰਹੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਇਕ ਦਾਨ ਐਪ ਖਰੀਦਣ \'ਤੇ ਵਿਚਾਰ ਕਰੋ. ਦਾਨ ਐਪ ਕੁਝ ਨਹੀਂ ਕਰਦਾ, ਪਰ ਤੁਹਾਡਾ ਦਾਨ ਮੈਨੂੰ ਵਿਖਾਏਗਾ ਕਿ ਮੇਰਾ ਸਮਾਂ ਮੁਫ਼ਤ ਵਿਕਸਿਤ ਕਰਨ ਲਈ ਖਰਚ ਹੋਇਆ ਹੈ, ਨੋ-ਐਪਸ ਐਪਸ ਦੀ ਸ਼ਲਾਘਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ. ਧੰਨਵਾਦ</string>
+    <string name="donate_greeting">ਸਤ ਸ੍ਰੀ ਅਕਾਲ!</string> 
+    <string name="action_save_starting_number">ਸ਼ੁਰੂਆਤੀ ਨੰਬਰ ਸੁਰੱਖਿਅਤ ਕਰੋ</string> 
+    <string name="small">ਛੋਟਾ</string> 
+    <string name="medium">ਮੱਧਮ</string> 
+    <string name="app_name">ਵੌਲਯੂਮ ਬਟਨ ਕਾਊਂਟਰ</string> 
+ </resources>

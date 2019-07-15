@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Přispějte vývojáři</string>
+    <string name="small_heart">malé srdce</string>
+    <string name="reset">resetovat</string>
+    <string name="medium_heart">střední srdce</string>
+    <string name="large_number_error_toast">Chyba: číslo je příliš velké</string> 
+    <string name="large_heart">velké srdce</string> 
+    <string name="large">Velký</string> 
+    <string name="edit_starting_number">Upravit počáteční číslo</string> 
+    <string name="donate_title">Darovat</string> 
+    <string name="donate_message">U me nome hè Amanda.</string> 
+    <string name="donate_greeting">Ahoj!</string> 
+    <string name="action_save_starting_number">Uložit počáteční číslo</string> 
+    <string name="small">Malý</string> 
+    <string name="medium">Střední</string> 
+    <string name="app_name">Počítadlo tlačítek hlasitosti</string> 
+ </resources>

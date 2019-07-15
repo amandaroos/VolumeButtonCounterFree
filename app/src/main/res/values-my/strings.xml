@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">ရေးသားသူ</string>
+    <string name="small_heart">သေးငယ်တဲ့</string>
+    <string name="reset">ပြန်ညှိမှု</string>
+    <string name="medium_heart">အလတ်စား</string>
+    <string name="large_number_error_toast">အမှား:</string> 
+    <string name="large_heart">ကြီးမားသော</string> 
+    <string name="large">အကြီးစား</string> 
+    <string name="edit_starting_number">နံပါတ်</string> 
+    <string name="donate_title">ပေးကမ်း</string> 
+    <string name="donate_message">ငါ့နာမကို</string> 
+    <string name="donate_greeting">ဟယ်လို!</string> 
+    <string name="action_save_starting_number">နံပါတ်</string> 
+    <string name="small">သေးငယ်သော</string> 
+    <string name="medium">အလယ်အလတ်</string> 
+    <string name="app_name">Volume ကို</string> 
+ </resources>

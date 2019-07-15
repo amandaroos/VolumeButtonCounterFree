@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Nikela kuMthuthukisi</string>
+    <string name="small_heart">intliziyo encinci</string>
+    <string name="reset">kwakhona</string>
+    <string name="medium_heart">intliziyo ephakathi</string>
+    <string name="large_number_error_toast">Iphutha: inombolo inkulu kakhulu</string> 
+    <string name="large_heart">intliziyo enkulu</string> 
+    <string name="large">Mkhulu</string> 
+    <string name="edit_starting_number">Hlela Ukuqalisa Inani</string> 
+    <string name="donate_title">Nikela</string> 
+    <string name="donate_message">Igama lam nguAmanda. Ukuba unandipha le app endiyenzile, nceda uqwalasele ukuthenga iprogram yenkxaso Iprogram yesibonelelo ayenzi nto, kodwa umnikelo wakho uya kundibonisa ukuba ixesha lam lichithe ukuhlakulela ii-free, akukho-ads-apps. Enkosi!</string> 
+    <string name="donate_greeting">Molo!</string> 
+    <string name="action_save_starting_number">Londoloza ukuQala iNani</string> 
+    <string name="small">Ncinane</string> 
+    <string name="medium">Phakathi</string> 
+    <string name="app_name">Counter Button Counter</string> 
+ </resources>

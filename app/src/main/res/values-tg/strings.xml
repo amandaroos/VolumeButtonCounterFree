@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Барои таҳиягар ба донор</string>
+    <string name="small_heart">дили хурд</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">дили миёна</string>
+    <string name="large_number_error_toast">Хато: рақам хеле калон аст</string> 
+    <string name="large_heart">дили калон</string> 
+    <string name="large">Калон</string> 
+    <string name="edit_starting_number">Таҳрири Рақам оғоз кунед</string> 
+    <string name="donate_title">Хайрия</string> 
+    <string name="donate_message">Номи ман Аманда аст. Агар шумо аз ин барнома лаззат баред, ман таҳрир хоҳам кард, ки хариди интерфейси донориро баррасӣ кунед. Замима кардани пардохтҳо ягон коре накардааст, аммо хайрияи шумо ба ман нишон медиҳад, ки вақти ман сарф шудани ройгон аст, барномаҳои номзадҳо на он қадар қадр карда мешавад. Ташаккур!</string> 
+    <string name="donate_greeting">Салом!</string> 
+    <string name="action_save_starting_number">Рақами оғози наҷот</string> 
+    <string name="small">Хурд</string> 
+    <string name="medium">Миёна</string> 
+    <string name="app_name">Тугмачаи Тугма</string> 
+ </resources>

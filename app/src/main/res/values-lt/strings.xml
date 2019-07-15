@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Paaukokite kūrėjui</string>
+    <string name="small_heart">maža širdis</string>
+    <string name="reset">atstatyti</string>
+    <string name="medium_heart">vidutinė širdis</string>
+    <string name="large_number_error_toast">Klaida: skaičius per didelis</string> 
+    <string name="large_heart">didelė širdis</string> 
+    <string name="large">Didelis</string> 
+    <string name="edit_starting_number">Redaguoti pradžios numerį</string> 
+    <string name="donate_title">Paremkite</string> 
+    <string name="donate_message">Mano vardas yra Amanda.</string> 
+    <string name="donate_greeting">Sveiki!</string> 
+    <string name="action_save_starting_number">Išsaugoti pradžios numerį</string> 
+    <string name="small">Mažas</string> 
+    <string name="medium">Vidutinis</string> 
+    <string name="app_name">Tūrio mygtuko skaitiklis</string> 
+ </resources>

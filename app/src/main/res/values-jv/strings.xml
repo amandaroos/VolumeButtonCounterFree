@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Nyumbangake Pengembang</string>
+    <string name="small_heart">ati cilik</string>
+    <string name="reset">Reset</string>
+    <string name="medium_heart">medium jantung</string>
+    <string name="large_number_error_toast">Kesalahan: jumlah banget gedhe</string> 
+    <string name="large_heart">gedhe ati</string> 
+    <string name="large">Gedhe</string> 
+    <string name="edit_starting_number">Sunting Wiwitan Nomer</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_message">Jenengku Amanda. Yen sampeyan nglaras app iki aku dikembangake, mangga nimbang mundhut app sumbangan App sumbangan ora nindakake apa-apa, nanging sumbangan sampeyan bakal nuduhake yen wektu saya ngembangaken aplikasi gratis, ora ana iklan sing dihargai. Thanks!</string> 
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">Simpen angka sing diwiwiti</string> 
+    <string name="small">Cilik</string> 
+    <string name="medium">Sedheng</string> 
+    <string name="app_name">Counter Button Volume</string> 
+ </resources>

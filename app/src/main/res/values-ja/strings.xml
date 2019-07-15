@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">開発者に寄付する</string>
+    <string name="small_heart">小さな心</string>
+    <string name="reset">リセット</string>
+    <string name="medium_heart">ミディアムハート</string>
+    <string name="large_number_error_toast">エラー：数値が大きすぎます</string> 
+    <string name="large_heart">大きな心</string> 
+    <string name="large">大</string> 
+    <string name="edit_starting_number">開始番号を編集</string> 
+    <string name="donate_title">寄付する</string> 
+    <string name="donate_message">私の名前はアマンダです。</string> 
+    <string name="donate_greeting">こんにちは！</string> 
+    <string name="action_save_starting_number">開始番号を保存</string> 
+    <string name="small">小さい</string> 
+    <string name="medium">中</string> 
+    <string name="app_name">音量ボタンカウンター</string> 
+ </resources>

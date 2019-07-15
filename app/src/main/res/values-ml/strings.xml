@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">ഡവലപ്പർക്ക് സംഭാവന ചെയ്യുക</string>
+    <string name="small_heart">ചെറിയ ഹൃദയം</string>
+    <string name="reset">പുന .സജ്ജമാക്കുക</string>
+    <string name="medium_heart">ഇടത്തരം ഹൃദയം</string>
+    <string name="large_number_error_toast">പിശക്: നമ്പർ വളരെ വലുതാണ്</string> 
+    <string name="large_heart">വലിയ ഹൃദയം</string> 
+    <string name="large">വലുത്</string> 
+    <string name="edit_starting_number">ആരംഭ നമ്പർ എഡിറ്റുചെയ്യുക</string> 
+    <string name="donate_title">സംഭാവനചെയ്യുക</string> 
+    <string name="donate_message">എന്റെ പേര് അമണ്ട.</string> 
+    <string name="donate_greeting">ഹലോ!</string> 
+    <string name="action_save_starting_number">ആരംഭ നമ്പർ സംരക്ഷിക്കുക</string> 
+    <string name="small">ചെറുത്</string> 
+    <string name="medium">ഇടത്തരം</string> 
+    <string name="app_name">വോളിയം ബട്ടൺ ക .ണ്ടർ</string> 
+ </resources>

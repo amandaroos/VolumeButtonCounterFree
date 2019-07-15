@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Дарете на разработчика</string>
+    <string name="small_heart">малко сърце</string>
+    <string name="reset">нулиране</string>
+    <string name="medium_heart">средно сърце</string>
+    <string name="large_number_error_toast">Грешка: номерът е твърде голям</string> 
+    <string name="large_heart">голямо сърце</string> 
+    <string name="large">Голям</string> 
+    <string name="edit_starting_number">Редактиране на началния номер</string> 
+    <string name="donate_title">Дарете</string> 
+    <string name="donate_message">Казвам се Аманда.</string> 
+    <string name="donate_greeting">Здравейте!</string> 
+    <string name="action_save_starting_number">Запазване на началния номер</string> 
+    <string name="small">малък</string> 
+    <string name="medium">среда</string> 
+    <string name="app_name">Брояч на бутони за сила на звука</string> 
+ </resources>

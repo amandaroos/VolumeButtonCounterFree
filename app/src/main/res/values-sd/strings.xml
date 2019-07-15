@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">ڊولپر جي مدد ڪريو</string>
+    <string name="small_heart">ننڍي دل</string>
+    <string name="reset">ٻيھر مقرر ڪريو</string>
+    <string name="medium_heart">وچولي دل</string>
+    <string name="large_number_error_toast">مسئلو: نمبر تمام وڏو آهي</string> 
+    <string name="large_heart">وڏي دل</string> 
+    <string name="large">وڏي</string> 
+    <string name="edit_starting_number">شروعاتي نمبر تبديل ڪريو</string> 
+    <string name="donate_title">مدد</string> 
+    <string name="donate_message">Меня зовут Аманда. Если вам нравится это приложение, которое я разработал, рассмотрите возможность приобретения приложения для пожертвований. Приложение для пожертвований ничего не делает, но ваше пожертвование покажет мне, что мое время, потраченное на разработку бесплатных приложений без рекламы, ценится. Спасибо!</string>
+    <string name="donate_greeting">هيلو!</string> 
+    <string name="action_save_starting_number">شروعاتي نمبر محفوظ ڪريو</string> 
+    <string name="small">ننڍڙو</string> 
+    <string name="medium">وچولي</string> 
+    <string name="app_name">حجم بٽڻ جو حصو</string> 
+ </resources>

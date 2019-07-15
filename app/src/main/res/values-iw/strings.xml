@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">לתרום למפתח</string>
+    <string name="small_heart">לב קטן</string>
+    <string name="reset">לאפס</string>
+    <string name="medium_heart">לב בינוני</string>
+    <string name="large_number_error_toast">שגיאה: המספר גדול מדי</string> 
+    <string name="large_heart">לב גדול</string> 
+    <string name="large">גדול</string> 
+    <string name="edit_starting_number">ערוך את מספר ההתחלה</string> 
+    <string name="donate_title">לתרום</string> 
+    <string name="donate_message">שמי הוא אמנדה. אם אתה נהנה זה App שפיתחתי, שקול לרכוש App תרומה App תרומה לא עושה כלום, אבל התרומה שלך יראה לי את הזמן השקיע בפיתוח חינם, ללא מודעות Apps מוערך. תודה!</string> 
+    <string name="donate_greeting">שלום!</string> 
+    <string name="action_save_starting_number">שמור את מספר ההתחלה</string> 
+    <string name="small">קטן</string> 
+    <string name="medium">בינוני</string> 
+    <string name="app_name">לחצן עוצמת הקול</string> 
+ </resources>

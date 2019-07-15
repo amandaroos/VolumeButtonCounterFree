@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Anneta arendajale</string>
+    <string name="small_heart">väike süda</string>
+    <string name="reset">lähtestamine</string>
+    <string name="medium_heart">keskmine süda</string>
+    <string name="large_number_error_toast">Viga: number on liiga suur</string> 
+    <string name="large_heart">suur süda</string> 
+    <string name="large">Suur</string> 
+    <string name="edit_starting_number">Muuda algusnumbrit</string> 
+    <string name="donate_title">Anneta</string> 
+    <string name="donate_message">Minu nimi on Amanda.</string> 
+    <string name="donate_greeting">Tere!</string> 
+    <string name="action_save_starting_number">Salvesta algusnumber</string> 
+    <string name="small">Väike</string> 
+    <string name="medium">Keskmine</string> 
+    <string name="app_name">Helitugevuse loendur</string> 
+ </resources>

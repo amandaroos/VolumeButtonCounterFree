@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">پرمخ وړونکي ته مرسته وکړئ</string>
+    <string name="small_heart">کوچنۍ زړه</string>
+    <string name="reset">بیاکتنه</string>
+    <string name="medium_heart">منځنۍ زړه</string>
+    <string name="large_number_error_toast">تېروتنه: شمېره ډېره لویه ده</string> 
+    <string name="large_heart">لوی زړه</string> 
+    <string name="large">لوی</string> 
+    <string name="edit_starting_number">د پیل شمیره</string> 
+    <string name="donate_title">مرسته وکړئ</string> 
+    <string name="donate_message">زما نوم امند دی. که تاسو د دې اکاډمۍ څخه خوند اخلئ، ما د پیسو اخیستلو پیرو اخیستلو په اړه غور وکړئ. د بسپنه غوښتنه هیڅ شی نه کوي، مګر ستاسو بسپنه به ما ته وښيي چې زما وخت د وړیا پراختیا په حال کې دی، د ناتو اعلانونو ایپسونه ستاینه کیږي. مننه!</string> 
+    <string name="donate_greeting">سلام!</string> 
+    <string name="action_save_starting_number">د پیل کولو شمېره</string> 
+    <string name="small">کوچني</string> 
+    <string name="medium">منځنۍ</string> 
+    <string name="app_name">حجم بکس</string> 
+ </resources>

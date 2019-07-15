@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Sumbangan ka pamekar</string>
+    <string name="small_heart">jantung leutik</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">jantung sedeng</string>
+    <string name="large_number_error_toast">Kasalahan: angka badag teuing</string> 
+    <string name="large_heart">haté badag</string> 
+    <string name="large">Gedé</string> 
+    <string name="edit_starting_number">Edit Jumlah Mimitian</string> 
+    <string name="donate_title">Nyumbang</string> 
+    <string name="donate_message">Ngaran abdi Amanda.</string> 
+    <string name="donate_greeting">Halo!</string> 
+    <string name="action_save_starting_number">Simpen Mimiti Nomer</string> 
+    <string name="small">Leutik</string> 
+    <string name="medium">Sedeng</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

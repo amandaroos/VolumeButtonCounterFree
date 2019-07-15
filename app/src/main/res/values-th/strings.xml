@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">บริจาคให้ผู้พัฒนา</string>
+    <string name="small_heart">หัวใจเล็ก ๆ</string>
+    <string name="reset">รีเซ็ต</string>
+    <string name="medium_heart">หัวใจกลาง</string>
+    <string name="large_number_error_toast">ข้อผิดพลาด: หมายเลขมีขนาดใหญ่เกินไป</string> 
+    <string name="large_heart">หัวใจขนาดใหญ่</string> 
+    <string name="large">ใหญ่</string> 
+    <string name="edit_starting_number">แก้ไขหมายเลขเริ่มต้น</string> 
+    <string name="donate_title">บริจาค</string> 
+    <string name="donate_message">ฉันชื่ออแมนดา</string> 
+    <string name="donate_greeting">สวัสดี!</string> 
+    <string name="action_save_starting_number">บันทึกหมายเลขเริ่มต้น</string> 
+    <string name="small">เล็ก</string> 
+    <string name="medium">กลาง</string> 
+    <string name="app_name">ปุ่มปรับระดับเสียง</string> 
+ </resources>

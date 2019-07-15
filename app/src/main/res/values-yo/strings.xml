@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Fi kun si Olùmugbòòrò</string>
+    <string name="small_heart">kekere okan</string>
+    <string name="reset">tunto</string>
+    <string name="medium_heart">ọkàn alabọde</string>
+    <string name="large_number_error_toast">Aṣiṣe: nọmba ti tobi ju</string> 
+    <string name="large_heart">nla okan</string> 
+    <string name="large">Tobi</string> 
+    <string name="edit_starting_number">Ṣatunkọ Bibẹrẹ Nọmba</string> 
+    <string name="donate_title">Fi kun</string> 
+    <string name="donate_message">Orukọ mi ni Amanda. Tí o bá ń gbádùn ìṣàfilọlẹ yìí mo ti ṣàgbéjáde, jọwọ ṣàròrò ríijàjà ìṣàfilọlẹ ìṣàfilọlẹ Ohun èlò ìfilọlẹ kò ṣe ohunkóhun, ṣùgbọn ẹbùn rẹ yoo fi hàn mi pe akoko mi ti o ni idagbasoke free, ti kii ṣe ipolongo imudanilori. O ṣeun!</string> 
+    <string name="donate_greeting">Pẹlẹ o!</string> 
+    <string name="action_save_starting_number">Nọmba Ibẹrẹ Bẹrẹ</string> 
+    <string name="small">Kekere</string> 
+    <string name="medium">Alabọde</string> 
+    <string name="app_name">Bọtini Ikọhun didun Bọtini</string> 
+ </resources>

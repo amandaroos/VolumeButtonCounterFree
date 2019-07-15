@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Donaci al Ellaboranto</string>
+    <string name="small_heart">malgranda koro</string>
+    <string name="reset">reagordi</string>
+    <string name="medium_heart">meza koro</string>
+    <string name="large_number_error_toast">Eraro: nombro estas tro granda</string> 
+    <string name="large_heart">granda koro</string> 
+    <string name="large">Granda</string> 
+    <string name="edit_starting_number">Redaktu Komenca Nombro</string> 
+    <string name="donate_title">Doni</string> 
+    <string name="donate_message">Mia nomo estas Amanda.</string> 
+    <string name="donate_greeting">Saluton!</string> 
+    <string name="action_save_starting_number">Konservi Komencan Numeron</string> 
+    <string name="small">Malgranda</string> 
+    <string name="medium">Meza</string> 
+    <string name="app_name">Volumula Buton-Contador</string> 
+ </resources>

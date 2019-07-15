@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Donate to Developer</string>
+    <string name="small_heart">ຫົວໃຈຂະຫນາດນ້ອຍ</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">ຫົວໃຈກາງ</string>
+    <string name="large_number_error_toast">ຂໍ້ຜິດພາດ: ຈໍານວນເກີນໄປ</string> 
+    <string name="large_heart">ຫົວໃຈໃຫຍ່</string> 
+    <string name="large">ຂະຫນາດໃຫຍ່</string> 
+    <string name="edit_starting_number">ແກ້ໄຂຈໍານວນເລີ່ມຕົ້ນ</string> 
+    <string name="donate_title">ບໍລິຈາກ</string> 
+    <string name="donate_message">Meum</string> 
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">ບັນທຶກຈໍານວນເລີ່ມຕົ້ນ</string> 
+    <string name="small">ຂະຫນາດນ້ອຍ</string> 
+    <string name="medium">ປານກາງ</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

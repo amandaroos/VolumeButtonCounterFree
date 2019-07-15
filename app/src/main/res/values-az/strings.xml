@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Developerə bağışla</string>
+    <string name="small_heart">kiçik ürək</string>
+    <string name="reset">sıfırlama</string>
+    <string name="medium_heart">Orta ürək</string>
+    <string name="large_number_error_toast">Hata: sayı çox böyükdür</string> 
+    <string name="large_heart">böyük ürək</string> 
+    <string name="large">Böyük</string> 
+    <string name="edit_starting_number">Başlanğıc Numarasını Düzenle</string> 
+    <string name="donate_title">Bağışlayın</string> 
+    <string name="donate_message">Mənim adım Amanda. Mən inkişaf etdiyim bu tətbiqdən zövq alırsanız, bir xeyir alma proqramı satın almanızı xahiş edirik Bağış proqramlar heç bir şey etməz, amma bağışınız pulsuz, reklamsız tətbiqlər inkişaf etdirdiyim vaxt sərf etdiyimi göstərəcək. Təşəkkür edirik!</string> 
+    <string name="donate_greeting">Salam!</string> 
+    <string name="action_save_starting_number">Başlanğıc Numarasını Saxla</string> 
+    <string name="small">Kiçik</string> 
+    <string name="medium">Orta</string> 
+    <string name="app_name">Həcm Düymə Sayğac</string> 
+ </resources>

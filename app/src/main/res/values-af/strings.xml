@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Skenk aan Ontwikkelaar</string>
+    <string name="small_heart">klein hart</string>
+    <string name="reset">herstel</string>
+    <string name="medium_heart">medium hart</string>
+    <string name="large_number_error_toast">Fout: nommer is te groot</string> 
+    <string name="large_heart">groot hart</string> 
+    <string name="large">groot</string> 
+    <string name="edit_starting_number">Wysig begin nommer</string> 
+    <string name="donate_title">skenk</string> 
+    <string name="donate_message">My naam is Amanda.</string> 
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">Stoor begin nommer</string> 
+    <string name="small">klein</string> 
+    <string name="medium">medium</string> 
+    <string name="app_name">Volume Knoppie Counter</string> 
+ </resources>

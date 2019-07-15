@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">تبرع للمطور</string>
+    <string name="small_heart">قلب صغير</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="medium_heart">قلب متوسط</string>
+    <string name="large_number_error_toast">خطأ: الرقم كبير جدًا</string> 
+    <string name="large_heart">قلب كبير</string> 
+    <string name="large">كبير</string> 
+    <string name="edit_starting_number">تحرير رقم البداية</string> 
+    <string name="donate_title">تبرع</string> 
+    <string name="donate_message">اسمي أماندا.</string> 
+    <string name="donate_greeting">مرحبا!</string> 
+    <string name="action_save_starting_number">حفظ رقم البداية</string> 
+    <string name="small">صغير</string> 
+    <string name="medium">متوسط</string> 
+    <string name="app_name">حجم زر عداد</string> 
+ </resources>

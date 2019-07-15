@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Әзірлеушіге көмек</string>
+    <string name="small_heart">кіші жүрек</string>
+    <string name="reset">қалпына келтіру</string>
+    <string name="medium_heart">орташа жүрек</string>
+    <string name="large_number_error_toast">Қате: нөмір тым үлкен</string> 
+    <string name="large_heart">үлкен жүрек</string> 
+    <string name="large">Үлкен</string> 
+    <string name="edit_starting_number">Басталу нөмірін түзету</string> 
+    <string name="donate_title">Сыйлау</string> 
+    <string name="donate_message">ჩემი სახელი ამანდა.</string> 
+    <string name="donate_greeting">Сәлеметсіз бе!</string> 
+    <string name="action_save_starting_number">Бастапқы нөмірді сақтаңыз</string> 
+    <string name="small">Шағын</string> 
+    <string name="medium">Орташа</string> 
+    <string name="app_name">Дыбыс қаттылығын реттегіш</string> 
+ </resources>

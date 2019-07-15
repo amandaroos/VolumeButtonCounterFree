@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">डेवलपर को दान करें</string>
+    <string name="small_heart">छोटा दिल</string>
+    <string name="reset">रीसेट</string>
+    <string name="medium_heart">मध्यम दिल</string>
+    <string name="large_number_error_toast">त्रुटि: संख्या बहुत बड़ी है</string> 
+    <string name="large_heart">बड़ा दिल</string> 
+    <string name="large">विशाल</string> 
+    <string name="edit_starting_number">आरंभ संख्या संपादित करें</string> 
+    <string name="donate_title">दान करना</string> 
+    <string name="donate_message">मेरा नाम अमांडा है।</string> 
+    <string name="donate_greeting">नमस्कार!</string> 
+    <string name="action_save_starting_number">स्टार्टिंग नंबर सेव करें</string> 
+    <string name="small">छोटा</string> 
+    <string name="medium">मध्यम</string> 
+    <string name="app_name">वॉल्यूम बटन काउंटर</string> 
+ </resources>

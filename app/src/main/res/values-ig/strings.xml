@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Nye ya Onye Mmepụta</string>
+    <string name="small_heart">obere obi</string>
+    <string name="reset">nhazi</string>
+    <string name="medium_heart">obi obi</string>
+    <string name="large_number_error_toast">Njehie: ọnụ ọgụgụ dị oke oke</string> 
+    <string name="large_heart">nnukwu obi</string> 
+    <string name="large">Nnukwu</string> 
+    <string name="edit_starting_number">Dezie Malite Number</string> 
+    <string name="donate_title">Nye onyinye</string> 
+    <string name="donate_message">Aha m bụ Amanda. Ọ bụrụ na ị na-enwe mmasị na ngwa a, m nwere ike ịmalite ịzụta ngwa onyinye. Ngwa onyinye ahụ adịghị eme ihe ọ bụla, ma onyinye gị ga-egosi m na oge m na-azụlite n\'efu, enweghị mgbasa ozi a nabatara. Daalụ!</string>
+    <string name="donate_greeting">Nnọọ!</string> 
+    <string name="action_save_starting_number">Nọmba mmalite mmalite</string> 
+    <string name="small">Obere</string> 
+    <string name="medium">Ọkara</string> 
+    <string name="app_name">Mbido ụda bọtịnụ</string> 
+ </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Eman garatzaileari</string>
+    <string name="small_heart">bihotz txikia</string>
+    <string name="reset">berrezarri</string>
+    <string name="medium_heart">ertaineko bihotza</string>
+    <string name="large_number_error_toast">Errorea: zenbakia handiegia da</string> 
+    <string name="large_heart">bihotz handia</string> 
+    <string name="large">Handiak</string> 
+    <string name="edit_starting_number">Editatu hasierako zenbakia</string> 
+    <string name="donate_title">Eman</string> 
+    <string name="donate_message">Nire izena Amanda da. Garatu dudan aplikazio hau gozatzen ari bazara, pentsa ezazu dohaintza aplikazio bat erostea Dohaintza aplikazioa ez da ezer egiten, baina zure dohaintza erakutsiko nau doako iragarkiak ez diren aplikazioak garatzeko denbora igaro dela. Eskerrik asko!</string> 
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">Gorde hasierako zenbakia</string> 
+    <string name="small">Small</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Bolumena botoia</string> 
+ </resources>

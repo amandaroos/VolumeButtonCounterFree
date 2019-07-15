@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Ziedot izstrādātājam</string>
+    <string name="small_heart">maza sirds</string>
+    <string name="reset">atiestatīt</string>
+    <string name="medium_heart">vidēja sirds</string>
+    <string name="large_number_error_toast">Kļūda: numurs ir pārāk liels</string> 
+    <string name="large_heart">liela sirds</string> 
+    <string name="large">Liels</string> 
+    <string name="edit_starting_number">Rediģēt sākuma numuru</string> 
+    <string name="donate_title">Ziedot</string> 
+    <string name="donate_message">Mans vārds ir Amanda.</string> 
+    <string name="donate_greeting">Sveiki!</string> 
+    <string name="action_save_starting_number">Saglabāt sākuma numuru</string> 
+    <string name="small">Mazs</string> 
+    <string name="medium">Vidējs</string> 
+    <string name="app_name">Skaļuma taustiņu skaitītājs</string> 
+ </resources>

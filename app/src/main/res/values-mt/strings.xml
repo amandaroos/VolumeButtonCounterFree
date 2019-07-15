@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Jiddonaw lil Developer</string>
+    <string name="small_heart">qalb żgħir</string>
+    <string name="reset">Irrisettja</string>
+    <string name="medium_heart">qalb medju</string>
+    <string name="large_number_error_toast">Żball: in-numru huwa kbir wisq</string> 
+    <string name="large_heart">qalb kbir</string> 
+    <string name="large">Kbir</string> 
+    <string name="edit_starting_number">Edit Numru tal-Bidu</string> 
+    <string name="donate_title">Jiddonaw</string> 
+    <string name="donate_message">Jisimni Amanda.</string> 
+    <string name="donate_greeting">Bongu!</string> 
+    <string name="action_save_starting_number">Ħlief Numru tal-Bidu</string> 
+    <string name="small">Żgħir</string> 
+    <string name="medium">Medju</string> 
+    <string name="app_name">Counter Button tal-Volum</string> 
+ </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Donate Developer</string>
+    <string name="small_heart">dil</string>
+    <string name="reset">veguhestin</string>
+    <string name="medium_heart">dilsoz</string>
+    <string name="large_number_error_toast">Çewt: Hejmar pir mezin e</string> 
+    <string name="large_heart">dil</string> 
+    <string name="large">Mezin</string> 
+    <string name="edit_starting_number">Hejmarê biguherîne</string>
+    <string name="donate_title">Bêşdan</string> 
+    <string name="donate_message">Navê min Amanda ye. Heke hûn ji vê pêşveçûnê amade dikim, ez li ser bala kirîna kirîna xêrhatina bargiraniyê bikim. Hişyariya appê nayê tiştek, lê te yê te dê nîşanî min bide ku dema min dem xweşbekirî azad kir, sepên ne-adûr têne şandin. Spas!</string> 
+    <string name="donate_greeting">Slav!</string> 
+    <string name="action_save_starting_number">Hejmara Destpêk Bike</string> 
+    <string name="small">Biçûk</string> 
+    <string name="medium">Medya</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

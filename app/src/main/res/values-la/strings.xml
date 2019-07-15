@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Quaerere</string>
+    <string name="small_heart">parvum</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">medium</string>
+    <string name="large_number_error_toast">Error</string> 
+    <string name="large_heart">magno</string> 
+    <string name="large">Magna</string> 
+    <string name="edit_starting_number">Recensere</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_message">Менин атым Аманда болуп саналат. Мен иштеп чыккан бул колдонмону пайдаланган болсо, тартуулоо Колдонмосуна тартуулоо колдонмосун эч нерсе эмес, сатып карап көр, бирок белекке Менин убакыт бааланат эркин, эч кандай жарнамалар колдонмолорду иштеп бою мени көрсөтөт. Рахмат!</string>
+    <string name="donate_greeting">Salve!</string> 
+    <string name="action_save_starting_number">Servo</string> 
+    <string name="small">Parvus</string> 
+    <string name="medium">medium</string> 
+    <string name="app_name">Video</string> 
+ </resources>

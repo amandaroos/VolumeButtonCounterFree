@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Δωρεά για προγραμματιστές</string>
+    <string name="small_heart">μικρή καρδιά</string>
+    <string name="reset">επαναφορά</string>
+    <string name="medium_heart">μέση καρδιά</string>
+    <string name="large_number_error_toast">Σφάλμα: ο αριθμός είναι πολύ μεγάλος</string> 
+    <string name="large_heart">μεγάλη καρδιά</string> 
+    <string name="large">Μεγάλο</string> 
+    <string name="edit_starting_number">Επεξεργασία αρχικού αριθμού</string> 
+    <string name="donate_title">Προσφέρω</string> 
+    <string name="donate_message">Το όνομά μου είναι η Amanda. Εάν απολαμβάνετε αυτήν την εφαρμογή που αναπτύξαμε, εξετάστε την αγορά μιας εφαρμογής δωρεάς Η εφαρμογή δωρεάς δεν κάνει τίποτα, αλλά η δωρεά σας θα δείξει ότι ο χρόνος μου για την ανάπτυξη δωρεάν εφαρμογών χωρίς διαφημίσεις εκτιμάται. Ευχαριστώ!</string> 
+    <string name="donate_greeting">Γειά σου!</string> 
+    <string name="action_save_starting_number">Αποθήκευση του αρχικού αριθμού</string> 
+    <string name="small">Μικρό</string> 
+    <string name="medium">Μεσαίο</string> 
+    <string name="app_name">Μετρητής κουμπιού έντασης ήχου</string> 
+ </resources>

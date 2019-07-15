@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Donasi ke Pengembang</string>
+    <string name="small_heart">hati kecil</string>
+    <string name="reset">atur ulang</string>
+    <string name="medium_heart">jantung sedang</string>
+    <string name="large_number_error_toast">Kesalahan: angka terlalu besar</string> 
+    <string name="large_heart">hati yang besar</string> 
+    <string name="large">Besar</string> 
+    <string name="edit_starting_number">Edit Nomor Mulai</string> 
+    <string name="donate_title">Menyumbangkan</string> 
+    <string name="donate_message">Nama saya Amanda.</string> 
+    <string name="donate_greeting">Halo!</string> 
+    <string name="action_save_starting_number">Simpan Nomor Mulai</string> 
+    <string name="small">Kecil</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Penghitung Tombol Volume</string> 
+ </resources>

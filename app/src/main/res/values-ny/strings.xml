@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Pereka kwa Wopanga Chithandizo</string>
+    <string name="small_heart">mtima wawung\'ono</string>
+    <string name="reset">bwezeretsani</string>
+    <string name="medium_heart">mtima wamkati</string>
+    <string name="large_number_error_toast">Cholakwika: nambala ndi yayikulu kwambiri</string> 
+    <string name="large_heart">mtima waukulu</string> 
+    <string name="large">Zazikulu</string> 
+    <string name="edit_starting_number">Sinthani Kuyambira Nambala</string> 
+    <string name="donate_title">Perekani</string> 
+    <string name="donate_message">Dzina langa ndi Amanda. Ngati mukusangalala ndi pulojekitiyi yomwe ndapanga, chonde taganizirani kugula pulogalamu ya zopereka. Pulogalamu ya zopereka sichita chirichonse, koma zopereka zanu zindiwonetsa kuti nthawi yanga yakhala ndikumasulidwa, palibe mapulogalamu omwe amavomerezedwa. Zikomo!</string> 
+    <string name="donate_greeting">Moni!</string> 
+    <string name="action_save_starting_number">Sungani Kuyambira Nambala</string> 
+    <string name="small">Small</string> 
+    <string name="medium">Zamkatimu</string> 
+    <string name="app_name">Bukhu Lalikulu la Buku</string> 
+ </resources>

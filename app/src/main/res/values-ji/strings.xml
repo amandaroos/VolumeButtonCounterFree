@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">שענקען צו דעוועלאָפּער</string>
+    <string name="small_heart">קליין האַרץ</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">מיטל האַרץ</string>
+    <string name="large_number_error_toast">טעות: נומער איז אויך גרויס</string> 
+    <string name="large_heart">גרויס האַרץ</string> 
+    <string name="large">גרויס</string> 
+    <string name="edit_starting_number">רעדאַגירן סטאַרטינג נומער</string> 
+    <string name="donate_title">שענקען</string> 
+    <string name="donate_message">מייַן נאָמען איז אַמאַנדאַ. אויב איר זענט געניסן אין דעם אַפּ איך דעוועלאָפּעד, ביטע אַרוישעלפן קויפן אַ דאָנאַטיאָן אַפּ דער דאָנאַטיאָן אַפּ טוט נישט טאָן עפּעס, אָבער דיין דאָנאַטיאָן וועט ווייַזן מיר אַז מיין צייַט פארבראכט דעוועלאָפּינג פֿרייַ, ניט-אַדס אַפּפּס איז אַפּרישיייטיד. Thanks!</string> 
+    <string name="donate_greeting">העלא!</string> 
+    <string name="action_save_starting_number">היט סטאַרטינג נומער</string> 
+    <string name="small">קליין</string> 
+    <string name="medium">מיטל</string> 
+    <string name="app_name">באַנד קנעפּל קאָונטער</string> 
+ </resources>

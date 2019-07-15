@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Donera till utvecklare</string>
+    <string name="small_heart">litet hjärta</string>
+    <string name="reset">återställa</string>
+    <string name="medium_heart">medelhögt hjärta</string>
+    <string name="large_number_error_toast">Fel: Numret är för stort</string> 
+    <string name="large_heart">stort hjärta</string> 
+    <string name="large">Stor</string> 
+    <string name="edit_starting_number">Redigera startnummer</string> 
+    <string name="donate_title">Donera</string> 
+    <string name="donate_message">Mitt namn är Amanda. Om du njuter av den här appen jag utvecklade, var snäll och överväga att köpa en donationsapp. Donation-appen gör inget, men din donation visar mig att min tid på att utveckla gratis apps utan annonser uppskattas. Tack!</string> 
+    <string name="donate_greeting">Hej!</string> 
+    <string name="action_save_starting_number">Spara startnummer</string> 
+    <string name="small">Små</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Volymknappsräknare</string> 
+ </resources>

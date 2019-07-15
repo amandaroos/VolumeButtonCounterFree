@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">E hāʻawi i ka Mea Hoʻopuka</string>
+    <string name="small_heart">ka puʻu liʻiliʻi</string>
+    <string name="reset">hoʻokuʻu</string>
+    <string name="medium_heart">naʻau haʻahaʻa</string>
+    <string name="large_number_error_toast">Kuʻia: nui loa ka helu</string> 
+    <string name="large_heart">naʻau nui</string> 
+    <string name="large">Nui</string> 
+    <string name="edit_starting_number">Hoʻololi i ka helu hoʻomaka</string> 
+    <string name="donate_title">Hāʻawi</string> 
+    <string name="donate_message">ʻO Amanda koʻu inoa. Ināʻoe e leʻaleʻa ana i kēia polokalamu ua hōʻoia wau, e noʻonoʻo e kūʻai i kahi haʻawina haʻawinaʻAʻole e hana kekahi mea i kāu noi, akā, e hōʻike mai kāu haʻawina iaʻu i koʻu hoʻonuiʻana i ka hoʻokuʻuʻana,ʻaʻole mahaloʻia nā polokalamu hoʻolaha. Mahalo!</string> 
+    <string name="donate_greeting">Aloha!</string> 
+    <string name="action_save_starting_number">Hoʻomaka Ke Kumu hoʻomaka</string> 
+    <string name="small">Liʻiliʻi</string> 
+    <string name="medium">Wahi</string> 
+    <string name="app_name">Kaomi Pāʻani Pāʻani</string> 
+ </resources>

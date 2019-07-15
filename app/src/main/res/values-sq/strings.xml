@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Dhuroni për Zhvilluesin</string>
+    <string name="small_heart">zemër të vogël</string>
+    <string name="reset">rivendosur</string>
+    <string name="medium_heart">zemra e mesme</string>
+    <string name="large_number_error_toast">Gabim: numri është shumë i madh</string> 
+    <string name="large_heart">zemër të madhe</string> 
+    <string name="large">i madh</string> 
+    <string name="edit_starting_number">Ndrysho numrin fillestar</string> 
+    <string name="donate_title">dhuroj</string> 
+    <string name="donate_message">Emri im është Amanda. Nëse e shijoni këtë aplikacion që unë kam zhvilluar, të lutem shqyrto blerjen e një aplikacioni për dhurim. Aplikacioni i donacionit nuk bën asgjë, por dhurimi yt do të më tregojë se koha ime e shpenzuar për zhvillimin e aplikacioneve falas pa reklama është vlerësuar. Faleminderit!</string> 
+    <string name="donate_greeting">Përshëndetje!</string> 
+    <string name="action_save_starting_number">Ruaj nisjen e numrit</string> 
+    <string name="small">i vogël</string> 
+    <string name="medium">medium</string> 
+    <string name="app_name">Vëllimi Counter Button</string> 
+ </resources>

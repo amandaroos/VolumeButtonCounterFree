@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">შემოწირულობაზე შემოწირულობა</string>
+    <string name="small_heart">პატარა გული</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">საშუალო გული</string>
+    <string name="large_number_error_toast">შეცდომა: რიცხვი ძალიან დიდია</string> 
+    <string name="large_heart">დიდი გული</string> 
+    <string name="large">დიდი</string> 
+    <string name="edit_starting_number">ნომრის რედაქტირება</string> 
+    <string name="donate_title">შემოწირულობა</string> 
+    <string name="donate_message">Jenengku Amanda. Yen sampeyan nglaras app iki aku dikembangake, mangga nimbang mundhut app sumbangan App sumbangan ora nindakake apa-apa, nanging sumbangan sampeyan bakal nuduhake yen wektu saya ngembangaken aplikasi gratis, ora ana iklan sing dihargai. Thanks!</string>
+    <string name="donate_greeting">გამარჯობა!</string> 
+    <string name="action_save_starting_number">სასტარტო ნომრის შენახვა</string> 
+    <string name="small">Პატარა</string> 
+    <string name="medium">საშუალო</string> 
+    <string name="app_name">ღილაკი მრიცხველი</string> 
+ </resources>

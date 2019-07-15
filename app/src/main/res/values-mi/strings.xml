@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Hoatu ki te Kaihanga</string>
+    <string name="small_heart">ngakau iti</string>
+    <string name="reset">tautuhi</string>
+    <string name="medium_heart">ngakau ngakau</string>
+    <string name="large_number_error_toast">Hapa: he nui rawa te tau</string> 
+    <string name="large_heart">ngakau nui</string> 
+    <string name="large">Nui</string> 
+    <string name="edit_starting_number">Whakatikahia te Tau Tīmata</string> 
+    <string name="donate_title">Hoatu</string> 
+    <string name="donate_message">Ko Amanda toku ingoa. Mena kei te pai koe ki tenei taupānga i whakawhanakehia e au, whakaarohia te hoko i tetahi taupānga tuku Ko te taupānga takoha kaore e mahi i tetahi mea, engari ka whakaaturia mai ki a au e to maatau ko taku wa e whakawhanake ana i te kore utu, kaore e paingia ana nga taupānga-kore. Mauruuru!</string> 
+    <string name="donate_greeting">Kia ora!</string> 
+    <string name="action_save_starting_number">Tiaki Tau Taumata</string> 
+    <string name="small">Iti</string> 
+    <string name="medium">Waenga</string> 
+    <string name="app_name">Pato Whakaturanga Panuku</string> 
+ </resources>

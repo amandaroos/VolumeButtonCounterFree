@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Donate to Developer</string>
+    <string name="small_heart">kananan zuciya</string>
+    <string name="reset">sake saita</string>
+    <string name="medium_heart">matsakaicin zuciya</string>
+    <string name="large_number_error_toast">Kuskure: Lamba ya yi girma</string> 
+    <string name="large_heart">babban zuciya</string> 
+    <string name="large">Babba</string> 
+    <string name="edit_starting_number">Shirya fara Farawa</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_message">Sunana Amanda. Idan kuna jin dadin wannan shirin na ci gaba, don Allah a yi la\'akari da sayen kayan kyauta Abubuwan kyautar ba ta yin kome ba, amma kyautar ku zai nuna mani cewa lokacin da aka bunkasa ba tare da kyauta ba, ba a tallafa wa tallan talla ba. Na gode!</string>
+    <string name="donate_greeting">Sannu!</string> 
+    <string name="action_save_starting_number">Fara Fara Farawa</string> 
+    <string name="small">Ƙananan</string> 
+    <string name="medium">Matsakaici</string> 
+    <string name="app_name">Maɓallin Maballin Maballin Volume</string> 
+ </resources>

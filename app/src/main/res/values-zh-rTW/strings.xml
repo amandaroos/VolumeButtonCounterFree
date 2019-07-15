@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">捐贈給開發者</string>
+    <string name="small_heart">小心臟</string>
+    <string name="reset">重啟</string>
+    <string name="medium_heart">中等的心臟</string>
+    <string name="large_number_error_toast">錯誤：數字太大</string> 
+    <string name="large_heart">大心臟</string> 
+    <string name="large">大</string> 
+    <string name="edit_starting_number">編輯起始編號</string> 
+    <string name="donate_title">捐</string> 
+    <string name="donate_message">我叫阿曼达。</string> 
+    <string name="donate_greeting">你好！</string> 
+    <string name="action_save_starting_number">保存起始編號</string> 
+    <string name="small">小</string> 
+    <string name="medium">介質</string> 
+    <string name="app_name">音量按鈕計數器</string> 
+ </resources>

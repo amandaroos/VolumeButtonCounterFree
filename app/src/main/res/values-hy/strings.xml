@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Նվիրեք Developer</string>
+    <string name="small_heart">փոքր սրտով</string>
+    <string name="reset">վերականգնել</string>
+    <string name="medium_heart">միջին սիրտ</string>
+    <string name="large_number_error_toast">Սխալ. Համարը չափազանց մեծ է</string> 
+    <string name="large_heart">մեծ սիրտ</string> 
+    <string name="large">Խոշոր</string> 
+    <string name="edit_starting_number">Խմբագրել սկզբնական համարը</string> 
+    <string name="donate_title">Նվիրաբերել</string> 
+    <string name="donate_message">Իմ անունը Ամանդա է: Եթե դուք վայելում եք այս հավելվածը, ես պատրաստվում եմ դիտել նվիրատվության ծրագիր ձեռք բերելու համար: Նվիրատվության ծրագիրը ոչինչ չի անում, բայց ձեր նվիրատվությունը ցույց կտա, որ իմ ժամանակն անց է կացվում ազատ, ոչ գովազդային հավելվածների զարգացման համար: Շնորհակալություն:</string> 
+    <string name="donate_greeting">Բարեւ!</string> 
+    <string name="action_save_starting_number">Պահպանել սկսնակների թիվը</string> 
+    <string name="small">Փոքր</string> 
+    <string name="medium">Միջին</string> 
+    <string name="app_name">Ծավալի կոճակները</string> 
+ </resources>

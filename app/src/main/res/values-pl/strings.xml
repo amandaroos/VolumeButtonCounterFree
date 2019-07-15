@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Darowizna dla programisty</string>
+    <string name="small_heart">małe serce</string>
+    <string name="reset">nastawić</string>
+    <string name="medium_heart">średnie serce</string>
+    <string name="large_number_error_toast">Błąd: liczba jest za duża</string> 
+    <string name="large_heart">duże serce</string> 
+    <string name="large">Duży</string> 
+    <string name="edit_starting_number">Edytuj numer początkowy</string> 
+    <string name="donate_title">ਦਾਨ ਕਰੋ</string> 
+    <string name="donate_message">Mam na imię Amanda.</string> 
+    <string name="donate_greeting">Witaj!</string> 
+    <string name="action_save_starting_number">Zapisz numer początkowy</string> 
+    <string name="small">Mały</string> 
+    <string name="medium">Średni</string> 
+    <string name="app_name">Licznik przycisków głośności</string> 
+ </resources>

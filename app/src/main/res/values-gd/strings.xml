@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Thoir tìodhlac dhan leasaiche</string>
+    <string name="small_heart">cridhe beag</string>
+    <string name="reset">ath-shuidhich</string>
+    <string name="medium_heart">cridhe meadhanach</string>
+    <string name="large_number_error_toast">Mearachd: tha an àireamh ro mhòr</string> 
+    <string name="large_heart">cridhe mòr</string> 
+    <string name="large">Mòr</string> 
+    <string name="edit_starting_number">Deasaich Àireamh tòiseachaidh</string> 
+    <string name="donate_title">Tabhartas</string> 
+    <string name="donate_message">Is mise Amanda.</string> 
+    <string name="donate_greeting">Halò!</string> 
+    <string name="action_save_starting_number">Sàbhail an Àireamh tòiseachaidh</string> 
+    <string name="small">Beag</string> 
+    <string name="medium">Meadhanach</string> 
+    <string name="app_name">Counter Button Volume</string> 
+ </resources>

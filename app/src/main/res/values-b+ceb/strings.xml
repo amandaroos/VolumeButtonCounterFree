@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Pagdonar sa Developer</string>
+    <string name="small_heart">gamay nga kasingkasing</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">medium nga kasingkasing</string>
+    <string name="large_number_error_toast">Sayop: daghan kaayo ang gidaghanon</string> 
+    <string name="large_heart">dako nga kasingkasing</string> 
+    <string name="large">Dako</string> 
+    <string name="edit_starting_number">I-edit ang Starting Number</string> 
+    <string name="donate_title">Pagdonar</string> 
+    <string name="donate_message">Em dic Amanda. Si esteu gaudint d\'aquesta aplicació que he desenvolupat, penseu en comprar una aplicació de donació. L\'aplicació de donació no fa res, però la vostra donació us mostrarà que el meu temps dedicat a desenvolupar aplicacions gratuïtes i sense anuncis és apreciat. Gràcies!</string>
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">Luwasa ang Sugod nga Numero</string> 
+    <string name="small">Gagmay</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

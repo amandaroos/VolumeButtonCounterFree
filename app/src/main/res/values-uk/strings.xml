@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Пожертвуйте розробнику</string>
+    <string name="small_heart">маленьке серце</string>
+    <string name="reset">скидання</string>
+    <string name="medium_heart">середнє серце</string>
+    <string name="large_number_error_toast">Помилка: номер завеликий</string> 
+    <string name="large_heart">велике серце</string> 
+    <string name="large">Великий</string> 
+    <string name="edit_starting_number">Редагувати початковий номер</string> 
+    <string name="donate_title">Пожертвувати</string> 
+    <string name="donate_message">Мене звуть Аманда.</string> 
+    <string name="donate_greeting">Привіт!</string> 
+    <string name="action_save_starting_number">Зберегти стартовий номер</string> 
+    <string name="small">Малий</string> 
+    <string name="medium">Середній</string> 
+    <string name="app_name">Лічильник гучності</string> 
+ </resources>

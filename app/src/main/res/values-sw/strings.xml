@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Msaidie kwa Wasanidi programu</string>
+    <string name="small_heart">moyo mdogo</string>
+    <string name="reset">rekebisha tena</string>
+    <string name="medium_heart">moyo wa kati</string>
+    <string name="large_number_error_toast">Hitilafu: namba ni kubwa mno</string> 
+    <string name="large_heart">moyo mkubwa</string> 
+    <string name="large">Kubwa</string> 
+    <string name="edit_starting_number">Hariri Nambari ya Kuanza</string> 
+    <string name="donate_title">Msaidie</string> 
+    <string name="donate_message">Mitt namn är Amanda. Om du njuter av den här appen jag utvecklade, var snäll och överväga att köpa en donationsapp. Donation-appen gör inget, men din donation visar mig att min tid på att utveckla gratis apps utan annonser uppskattas. Tack!</string>
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">Hifadhi Kuanza Idadi</string> 
+    <string name="small">Ndogo</string> 
+    <string name="medium">Kati</string> 
+    <string name="app_name">Kichujio cha Button ya Volume</string> 
+ </resources>

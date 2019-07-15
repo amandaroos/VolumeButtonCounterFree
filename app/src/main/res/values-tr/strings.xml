@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Geliştiriciye Bağış Yap</string>
+    <string name="small_heart">küçük kalp</string>
+    <string name="reset">sıfırlamak</string>
+    <string name="medium_heart">orta kalp</string>
+    <string name="large_number_error_toast">Hata: sayı çok büyük</string> 
+    <string name="large_heart">büyük kalp</string> 
+    <string name="large">Malaking</string> 
+    <string name="edit_starting_number">Başlangıç Numarasını Düzenle</string> 
+    <string name="donate_title">bağışlamak</string> 
+    <string name="donate_message">Benim adım Amanda.</string> 
+    <string name="donate_greeting">Merhaba!</string> 
+    <string name="action_save_starting_number">Başlangıç Numarasını Kaydet</string> 
+    <string name="small">Küçük</string> 
+    <string name="medium">Orta</string> 
+    <string name="app_name">Ses Düğmesi Sayacı</string> 
+ </resources>

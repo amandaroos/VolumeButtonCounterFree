@@ -93,6 +93,4 @@ public class EditStartingNumberActivity extends AppCompatActivity {
                         String.valueOf(starting_number))
                 .apply();
     }
-
-
 }

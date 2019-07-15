@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Ахвяраваць распрацоўніку</string>
+    <string name="small_heart">маленькае сэрца</string>
+    <string name="reset">скід</string>
+    <string name="medium_heart">сярэдняе сэрца</string>
+    <string name="large_number_error_toast">Памылка: лік занадта вялікі</string> 
+    <string name="large_heart">вялікае сэрца</string> 
+    <string name="large">Вялікі</string> 
+    <string name="edit_starting_number">Змяніць стартавы нумар</string> 
+    <string name="donate_title">Ахвяраваць</string> 
+    <string name="donate_message">Мяне завуць Аманда.</string> 
+    <string name="donate_greeting">Добры дзень!</string> 
+    <string name="action_save_starting_number">Захаваць стартавы нумар</string> 
+    <string name="small">Маленькі</string> 
+    <string name="medium">Сярэдні</string> 
+    <string name="app_name">Лічыльнік кнопак гучнасці</string> 
+ </resources>

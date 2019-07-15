@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Rhoddwch i\'r Datblygwr</string>
+    <string name="small_heart">calon fach</string>
+    <string name="reset">ail gychwyn</string>
+    <string name="medium_heart">calon ganolig</string>
+    <string name="large_number_error_toast">Gwall: mae\'r nifer yn rhy fawr</string>
+    <string name="large_heart">calon fawr</string> 
+    <string name="large">Mawr</string> 
+    <string name="edit_starting_number">Golygu Rhif Dechrau</string> 
+    <string name="donate_title">Cyfrannwch</string> 
+    <string name="donate_message">Fy enw i yw Amanda.</string> 
+    <string name="donate_greeting">Helo!</string> 
+    <string name="action_save_starting_number">Arbedwch y Rhif Cychwynnol</string> 
+    <string name="small">Bach</string> 
+    <string name="medium">Canolig</string> 
+    <string name="app_name">Cownter Botwm Cyfaint</string> 
+ </resources>

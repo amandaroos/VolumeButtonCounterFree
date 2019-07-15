@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Gitt dem Entwéckler</string>
+    <string name="small_heart">klengen Herzinfarkt</string>
+    <string name="reset">zréckgesat</string>
+    <string name="medium_heart">mëttelméissegen Häerz</string>
+    <string name="large_number_error_toast">Feeler: Nummer ass ze grouss</string> 
+    <string name="large_heart">grousst Häerz</string> 
+    <string name="large">Grouss</string> 
+    <string name="edit_starting_number">Start Start Number</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_message">Mäin Numm ass Amanda. Wann Dir dës App entwéckelt, déi ech entwéckelt hunn, gitt weg datt Dir eng Donéierung App kaaft hutt. D\'Donatioun App weess näischt, awer Är Donéierung wäert mer weisen datt meng Zäit déi gratis ass, fir gratis Annonce no Apps ze benotzen ass geschätzt. Merci!</string>
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="action_save_starting_number">Start Startnummer späicheren</string> 
+    <string name="small">Kleng</string> 
+    <string name="medium">Mëttel</string> 
+    <string name="app_name">Volume Knäppchen Counter</string> 
+ </resources>

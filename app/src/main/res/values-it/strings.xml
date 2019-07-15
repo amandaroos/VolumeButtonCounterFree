@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Dona allo sviluppatore</string>
+    <string name="small_heart">piccolo cuore</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">cuore medio</string>
+    <string name="large_number_error_toast">Errore: il numero è troppo grande</string> 
+    <string name="large_heart">cuore grande</string> 
+    <string name="large">Grande</string> 
+    <string name="edit_starting_number">Modifica il numero di partenza</string> 
+    <string name="donate_title">Donare</string> 
+    <string name="donate_message">Il mio nome è Amanda. Se ti piace questa app che ho sviluppato, considera l\'acquisto di un\'app per le donazioni. L\'app per le donazioni non fa nulla, ma la tua donazione mi dimostrerà che il mio tempo speso per lo sviluppo di app gratuite senza pubblicità è apprezzato. Grazie!</string>
+    <string name="donate_greeting">Ciao!</string> 
+    <string name="action_save_starting_number">Salva il numero di partenza</string> 
+    <string name="small">Piccola</string> 
+    <string name="medium">Media</string> 
+    <string name="app_name">Contatore pulsanti volume</string> 
+ </resources>

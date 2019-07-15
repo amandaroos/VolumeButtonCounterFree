@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Donați dezvoltatorului</string>
+    <string name="small_heart">mica inima</string>
+    <string name="reset">restabili</string>
+    <string name="medium_heart">inima medie</string>
+    <string name="large_number_error_toast">Eroare: numărul este prea mare</string> 
+    <string name="large_heart">mare inima</string> 
+    <string name="large">Mare</string> 
+    <string name="edit_starting_number">Editați numărul de pornire</string> 
+    <string name="donate_title">Dona</string> 
+    <string name="donate_message">Numele meu este Amanda. Dacă vă bucurați de această aplicație pe care am dezvoltat-o, vă rugăm să luați în considerare achiziționarea unei aplicații de donare Aplicația de donare nu face nimic, dar donarea dvs. îmi va arăta că timpul petrecut pentru dezvoltarea gratuită a aplicațiilor fără anunțuri este apreciat. Mulțumiri!</string> 
+    <string name="donate_greeting">Salut!</string> 
+    <string name="action_save_starting_number">Salvați numărul inițial</string> 
+    <string name="small">Mic</string> 
+    <string name="medium">Mediu</string> 
+    <string name="app_name">Butonul de volum Counter</string> 
+ </resources>

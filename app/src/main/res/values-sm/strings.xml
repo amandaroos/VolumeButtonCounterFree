@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Fesoasoani i le Faʻapupula</string>
+    <string name="small_heart">itiiti fatu</string>
+    <string name="reset">toe faʻanofo</string>
+    <string name="medium_heart">loto fatu</string>
+    <string name="large_number_error_toast">Faʻailoga: numera e telē tele</string> 
+    <string name="large_heart">loto tele</string> 
+    <string name="large">Tele</string> 
+    <string name="edit_starting_number">Faʻamata Amata Numera</string> 
+    <string name="donate_title">Fesoasoani</string> 
+    <string name="donate_message">O loʻu igoa o Amanda. Afai e te fiafia i lenei app na ou atiina ae, faamolemole mafaufau i le faatauina mai o se foai foai O le foai foai e le faia se mea, ae o lau foai o le a faaali mai ai ia te aʻu o loʻu taimi e faaaluina ai le atinaeina saoloto, leai ni faasalalauga e talisapaia. Faʻafetai!</string> 
+    <string name="donate_greeting">Talofa!</string> 
+    <string name="action_save_starting_number">Faʻaagaina le Numera numera</string> 
+    <string name="small">Laititi</string> 
+    <string name="medium">Tele</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

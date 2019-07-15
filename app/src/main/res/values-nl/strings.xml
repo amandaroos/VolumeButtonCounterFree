@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Doneer aan ontwikkelaar</string>
+    <string name="small_heart">klein hart</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">gemiddeld hart</string>
+    <string name="large_number_error_toast">Fout: nummer is te groot</string> 
+    <string name="large_heart">groot hart</string> 
+    <string name="large">Groot</string> 
+    <string name="edit_starting_number">Bewerk startnummer</string> 
+    <string name="donate_title">schenken</string> 
+    <string name="donate_message">Ik heet Amanda. Als je geniet van deze app die ik heb ontwikkeld, overweeg dan om een donatie-app aan te schaffen. De donatie-app doet niets, maar je donatie laat me zien dat mijn tijd besteed aan het ontwikkelen van gratis, geen-advertenties-apps op prijs wordt gesteld. Bedankt!</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="action_save_starting_number">Bewaar startnummer</string> 
+    <string name="small">Klein</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Volumeknopteller</string> 
+ </resources>

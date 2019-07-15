@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">به برنامهنویس اهدا کنید</string>
+    <string name="small_heart">قلب کوچک</string>
+    <string name="reset">تنظیم مجدد</string>
+    <string name="medium_heart">قلب متوسط</string>
+    <string name="large_number_error_toast">خطا: شماره خیلی بزرگ است</string> 
+    <string name="large_heart">قلب بزرگ</string> 
+    <string name="large">بزرگ</string> 
+    <string name="edit_starting_number">ویرایش شماره شروع</string> 
+    <string name="donate_title">اهدا کنید</string> 
+    <string name="donate_message">اسم من آماندا است اگر از این برنامه که توسعه دادید لذت ببرید، لطفا در نظر خرید یک برنامه اهدایی برنامه اهدا چیزی را انجام نمی دهد، اما کمک شما به من نشان می دهد که زمان صرف شده برای توسعه برنامه های رایگان و بدون تبلیغات، قدردانی شده است. با تشکر!</string> 
+    <string name="donate_greeting">سلام!</string> 
+    <string name="action_save_starting_number">صرفه جویی در شروع شماره</string> 
+    <string name="small">کوچک</string> 
+    <string name="medium">متوسط</string> 
+    <string name="app_name">شمارنده دکمه حجم</string> 
+ </resources>

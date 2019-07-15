@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">ڈویلپر کا عطیہ</string>
+    <string name="small_heart">چھوٹے دل</string>
+    <string name="reset">ری سیٹ کریں</string>
+    <string name="medium_heart">درمیانی دل</string>
+    <string name="large_number_error_toast">خرابی: تعداد بہت بڑی ہے</string> 
+    <string name="large_heart">بڑا دل</string> 
+    <string name="large">بڑے</string> 
+    <string name="edit_starting_number">شروع نمبر میں ترمیم کریں</string> 
+    <string name="donate_title">عطیہ</string> 
+    <string name="donate_message">میرا نام امنڈ ہے. اگر آپ اس اپلی کیشن سے لطف اندوز ہو رہے ہیں تو، براہ کرم عطیہ کی اپلی کیشن خریدنے پر غور کریں. عطیہ ایپ کچھ بھی نہیں کرتا، لیکن آپ کے عطیہ مجھے دکھائے گا کہ میرا وقت مفت ترقی کر رہا ہے، کوئی اشتھاراتی اطلاقات کی تعریف نہیں کی جاتی ہے. شکریہ!</string> 
+    <string name="donate_greeting">ہیلو!</string> 
+    <string name="action_save_starting_number">شروع کرنے کے نمبر محفوظ کریں</string> 
+    <string name="small">چھوٹے</string> 
+    <string name="medium">درمیانہ</string> 
+    <string name="app_name">حجم بٹن انسداد</string> 
+ </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Пожертвовать разработчику</string>
+    <string name="small_heart">маленькое сердце</string>
+    <string name="reset">сброс</string>
+    <string name="medium_heart">среднее сердце</string>
+    <string name="large_number_error_toast">Ошибка: номер слишком велик</string> 
+    <string name="large_heart">большое сердце</string> 
+    <string name="large">большой</string> 
+    <string name="edit_starting_number">Изменить начальный номер</string> 
+    <string name="donate_title">жертвовать</string> 
+    <string name="donate_message">Меня зовут Аманда.</string> 
+    <string name="donate_greeting">Здравствуйте!</string> 
+    <string name="action_save_starting_number">Сохранить стартовый номер</string> 
+    <string name="small">Маленький</string> 
+    <string name="medium">Средняя</string> 
+    <string name="app_name">Счетчик кнопки громкости</string> 
+ </resources>

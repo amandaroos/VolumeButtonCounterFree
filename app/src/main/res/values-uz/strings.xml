@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Tuzuvchi uchun ehson qiling</string>
+    <string name="small_heart">kichik yurak</string>
+    <string name="reset">qayta o\'rnatish</string>
+    <string name="medium_heart">o\'rta yurak</string>
+    <string name="large_number_error_toast">Xatolik: raqam juda katta</string> 
+    <string name="large_heart">katta yurak</string> 
+    <string name="large">Kattaroq</string> 
+    <string name="edit_starting_number">Boshlang\'ich raqamini tahrirlash</string>
+    <string name="donate_title">Bag\'ishlang</string>
+    <string name="donate_message">Mening ismim Amanda. Agar sizga ushbu dasturni yoqtirsam, iltimos, ehson dasturini sotib olishni o\'ylab ko\'ring. Xayriya dasturi hech narsa qilmaydi, ammo sizning ehsoningiz bepul, reklamasiz ilovalarni rivojlantirish uchun sarflagan vaqtim ekanligini ko\'rsatib beradi. Rahmat!</string>
+    <string name="donate_greeting">Salom!</string> 
+    <string name="action_save_starting_number">Boshlovchi raqamni saqlang</string> 
+    <string name="small">Kichik</string> 
+    <string name="medium">O\'rtacha</string>
+    <string name="app_name">Ovoz tugmasi taymerlari</string> 
+ </resources>

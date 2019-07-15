@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">विकासकर्ताको लागि दान गर्नुहोस्</string>
+    <string name="small_heart">सानो हृदय</string>
+    <string name="reset">रिसेट गर्नुहोस्</string>
+    <string name="medium_heart">मध्यम हृदय</string>
+    <string name="large_number_error_toast">त्रुटि: नम्बर धेरै ठूलो छ</string> 
+    <string name="large_heart">ठूलो हृदय</string> 
+    <string name="large">ठूलो</string> 
+    <string name="edit_starting_number">सुरु गर्ने नम्बर सम्पादन गर्नुहोस्</string> 
+    <string name="donate_title">दान गर्नुहोस्</string> 
+    <string name="donate_message">मेरो नाम अमांडा हो। यदि तपाईंले यो एपको आनन्द लिनुभयो भने मैले विकसित गरेको एप खरीद गरेको छु। दान दानले कुनै पनि काम गर्दैन, तर तपाईंको दानले मलाई देखाउँदछ कि मेरो समय निःशुल्क विकास गरी बिताईएको छ, विज्ञापन-रहित अनुप्रयोगहरूको सराहना गरिन्छ। धन्यवाद!</string> 
+    <string name="donate_greeting">नमस्ते!</string> 
+    <string name="action_save_starting_number">सुरुवात नम्बर बचत गर्नुहोस्</string> 
+    <string name="small">सानो</string> 
+    <string name="medium">मध्यम</string> 
+    <string name="app_name">भोल्युम बटन काउन्टर</string> 
+ </resources>

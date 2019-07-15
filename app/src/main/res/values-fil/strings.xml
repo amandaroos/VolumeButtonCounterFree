@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Mag-donate sa Developer</string>
+    <string name="small_heart">maliit na puso</string>
+    <string name="reset">i-reset</string>
+    <string name="medium_heart">katamtamang puso</string>
+    <string name="large_number_error_toast">Error: masyadong malaki ang numero</string>
+    <string name="large_heart">malaking puso</string>
+    <string name="large">Malaking</string>
+    <string name="edit_starting_number">I-edit ang Simula na Numero</string>
+    <string name="donate_title">Mag-donate</string>
+    <string name="donate_message">Ang pangalan ko ay Amanda. Kung nasiyahan ka sa app na ito na binuo ko, mangyaring isaalang-alang ang pagbili ng isang donasyon app Ang donasyon app ay hindi gumawa ng anumang bagay, ngunit ang iyong donasyon ay magpapakita sa akin na ang aking oras na ginugol pagbuo ng libre, walang apps sa mga ad ay pinahahalagahan. Salamat!</string>
+    <string name="donate_greeting">Kamusta!</string>
+    <string name="action_save_starting_number">I-save ang Simula na Numero</string>
+    <string name="small">Maliit</string>
+    <string name="medium">Katamtaman</string>
+    <string name="app_name">Counter ng Pindutan ng Dami</string> 
+ </resources>

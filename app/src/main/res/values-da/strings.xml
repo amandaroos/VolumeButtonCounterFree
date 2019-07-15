@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Donere til udvikler</string>
+    <string name="small_heart">lille hjerte</string>
+    <string name="reset">Nulstil</string>
+    <string name="medium_heart">medium hjerte</string>
+    <string name="large_number_error_toast">Fejl: Nummeret er for stort</string> 
+    <string name="large_heart">stort hjerte</string> 
+    <string name="large">Stor</string> 
+    <string name="edit_starting_number">Rediger startnummer</string> 
+    <string name="donate_title">Doner</string> 
+    <string name="donate_message">Jeg hedder Amanda.</string> 
+    <string name="donate_greeting">Hej!</string> 
+    <string name="action_save_starting_number">Gem startnummer</string> 
+    <string name="small">Lille</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Volumenknap tæller</string> 
+ </resources>

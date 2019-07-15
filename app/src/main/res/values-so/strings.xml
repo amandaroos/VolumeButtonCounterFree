@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Kaalmo horumarineed</string>
+    <string name="small_heart">wadnaha yar</string>
+    <string name="reset">dib u bilow</string>
+    <string name="medium_heart">wadnaha dhexe</string>
+    <string name="large_number_error_toast">Cilad: tirada waa mid aad u weyn</string> 
+    <string name="large_heart">wadnaha weyn</string> 
+    <string name="large">Large</string> 
+    <string name="edit_starting_number">Beddelista Bilaabidda Bilawga</string> 
+    <string name="donate_title">Deeqo</string> 
+    <string name="donate_message">Zita rangu ndiAmanda. Kana uri kufara neiyo purogiramu yandakaikumbira, tapota funga kutenga chirongwa chekupa mupiro Chipo chekupa mari hachiiti chero chinhu, asi chipo chako chinondiratidza kuti nguva yangu inopedza kusununguka, hapana-matangazo mapurogiramu anokosheswa. Ndatenda!</string>
+    <string name="donate_greeting">Hello!</string> 
+    <string name="action_save_starting_number">Badbaadinta Bilaabista Bilawga</string> 
+    <string name="small">Yar</string> 
+    <string name="medium">Dhexdhexaad</string> 
+    <string name="app_name">Counter Button Counter</string> 
+ </resources>

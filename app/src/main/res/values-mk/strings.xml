@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Донирај на програмер</string>
+    <string name="small_heart">мало срце</string>
+    <string name="reset">ресетирање</string>
+    <string name="medium_heart">средно срце</string>
+    <string name="large_number_error_toast">Грешка: бројот е преголем</string> 
+    <string name="large_heart">големо срце</string> 
+    <string name="large">Голем</string> 
+    <string name="edit_starting_number">Уредете го почетниот број</string> 
+    <string name="donate_title">Донирај</string> 
+    <string name="donate_message">Моето име е Аманда. Ако уживате во оваа апликација што ја развив, молам, размислете за купување на донација. Апликацијата за донации не прави ништо, но вашата донација ќе ми покаже дека моето време поминато во развој на бесплатни апликации без реклами е ценето. Благодарам!</string> 
+    <string name="donate_greeting">Здраво!</string> 
+    <string name="action_save_starting_number">Зачувај го почетниот број</string> 
+    <string name="small">Мали</string> 
+    <string name="medium">Средно</string> 
+    <string name="app_name">Копче за копче за јачина на звук</string> 
+ </resources>

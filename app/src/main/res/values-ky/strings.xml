@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Иштеп</string>
+    <string name="small_heart">кичинекей</string>
+    <string name="reset">кайра орнотуу</string>
+    <string name="medium_heart">орто</string>
+    <string name="large_number_error_toast">Ката</string> 
+    <string name="large_heart">чоң</string> 
+    <string name="large">чоң</string> 
+    <string name="edit_starting_number">Edit</string> 
+    <string name="donate_title">белек тартуу кылуу</string> 
+    <string name="donate_message">Менин атым</string> 
+    <string name="donate_greeting">Салам!</string> 
+    <string name="action_save_starting_number">Саны</string> 
+    <string name="small">кичине</string> 
+    <string name="medium">Орточо</string> 
+    <string name="app_name">Көлөмү</string> 
+ </resources>

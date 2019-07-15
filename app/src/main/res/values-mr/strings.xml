@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">विकसकांना दान करा</string>
+    <string name="small_heart">लहान हृदय</string>
+    <string name="reset">रीसेट करा</string>
+    <string name="medium_heart">मध्यम हृदय</string>
+    <string name="large_number_error_toast">त्रुटीः संख्या खूप मोठी आहे</string> 
+    <string name="large_heart">मोठे हृदय</string> 
+    <string name="large">मोठा</string> 
+    <string name="edit_starting_number">प्रारंभ क्रमांक संपादित करा</string> 
+    <string name="donate_title">दान करा</string> 
+    <string name="donate_message">माझे नाव अमांडा आहे. जर आपण या अॅपचा आनंद घेत असाल तर मी विकसित केले आहे, कृपया देणगी अॅप खरेदी करण्याचा विचार करा. देणगी अॅप काहीही करत नाही, परंतु आपल्या देणग्यामुळे मला असे दिसून येईल की माझा वेळ विनामूल्य विकसित होत गेला आहे, जाहिरातींच्या अॅप्सची प्रशंसा केली गेली आहे. धन्यवाद!</string> 
+    <string name="donate_greeting">हॅलो!</string> 
+    <string name="action_save_starting_number">प्रारंभ क्रमांक जतन करा</string> 
+    <string name="small">लहान</string> 
+    <string name="medium">मध्यम</string> 
+    <string name="app_name">वॉल्यूम बटण काउंटर</string> 
+ </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">បរិច្ចាកទៅអ្នកអភិវឌ្ឍន៍</string>
+    <string name="small_heart">បេះដូងតូច</string>
+    <string name="reset">កំណត់ឡើងវិញ</string>
+    <string name="medium_heart">បេះដូងមធ្យម</string>
+    <string name="large_number_error_toast">កំហុស: លេខធំពេក</string> 
+    <string name="large_heart">បេះដូងដ៏ធំ</string> 
+    <string name="large">ធំ</string> 
+    <string name="edit_starting_number">កែសម្រួលលេខចាប់ផ្តើម</string> 
+    <string name="donate_title">បរិច្ចាគ</string> 
+    <string name="donate_message">ខ្ញុំឈ្មោះអាន់វ៉ាណា។ ប្រសិនបើអ្នករីករាយនឹងកម្មវិធីនេះដែលខ្ញុំបានបង្កើតសូមពិចារណាការទិញកម្មវិធីឧបត្ថម្ភកម្មវិធីឧបត្ថម្ភមិនធ្វើអ្វីទេប៉ុន្តែការបរិច្ចាគរបស់អ្នកនឹងបង្ហាញខ្ញុំថាពេលវេលារបស់ខ្ញុំចំណាយពេលបង្កើតកម្មវិធីឥតគិតថ្លៃនិងគ្មានពាណិជ្ជកម្មត្រូវបានគេអបអរសាទរ។ សូមអរគុណ!</string> 
+    <string name="donate_greeting">ជំរាបសួរ!</string> 
+    <string name="action_save_starting_number">រក្សាទុកលេខចាប់ផ្តើម</string> 
+    <string name="small">តូច</string> 
+    <string name="medium">មធ្យម</string> 
+    <string name="app_name">ប៊ូតុងភាគកម្រិតសំឡេង</string> 
+ </resources>

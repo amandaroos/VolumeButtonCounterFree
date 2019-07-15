@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">개발자에게 기부하기</string>
+    <string name="small_heart">작은 마음</string>
+    <string name="reset">다시 놓기</string>
+    <string name="medium_heart">중간 심장</string>
+    <string name="large_number_error_toast">오류 : 숫자가 너무 큽니다.</string> 
+    <string name="large_heart">큰 마음</string> 
+    <string name="large">큰</string> 
+    <string name="edit_starting_number">시작 번호 수정</string> 
+    <string name="donate_title">기부</string> 
+    <string name="donate_message">제 이름은 아만다입니다. 개발 한이 응용 프로그램을 즐기는 경우 기부 응용 프로그램을 구입하는 것을 고려하십시오 기부 응용 프로그램은 아무 것도하지 않지만 기부금을 보내면 내 시간이 무료이며 응용 프로그램이없는 응용 프로그램을 개발하는 데 시간을 보낸 것으로 나타납니다. 감사!</string> 
+    <string name="donate_greeting">여보세요!</string> 
+    <string name="action_save_starting_number">시작 번호 저장</string> 
+    <string name="small">작은</string> 
+    <string name="medium">매질</string> 
+    <string name="app_name">볼륨 버튼 카운터</string> 
+ </resources>

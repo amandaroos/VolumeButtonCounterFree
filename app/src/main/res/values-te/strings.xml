@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">డెవలపర్‌కు విరాళం ఇవ్వండి</string>
+    <string name="small_heart">చిన్న గుండె</string>
+    <string name="reset">రీసెట్</string>
+    <string name="medium_heart">మధ్యస్థ గుండె</string>
+    <string name="large_number_error_toast">లోపం: సంఖ్య చాలా పెద్దది</string> 
+    <string name="large_heart">పెద్ద గుండె</string> 
+    <string name="large">పెద్ద</string> 
+    <string name="edit_starting_number">ప్రారంభ సంఖ్యను సవరించండి</string> 
+    <string name="donate_title">దానం</string> 
+    <string name="donate_message">నా పేరు అమండా.</string> 
+    <string name="donate_greeting">హలో!</string> 
+    <string name="action_save_starting_number">ప్రారంభ సంఖ్యను సేవ్ చేయండి</string> 
+    <string name="small">చిన్న</string> 
+    <string name="medium">మీడియం</string> 
+    <string name="app_name">వాల్యూమ్ బటన్ కౌంటర్</string> 
+ </resources>

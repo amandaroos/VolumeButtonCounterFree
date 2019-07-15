@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Хөгжүүлэгчид хандивлах</string>
+    <string name="small_heart">жижигхэн зүрх</string>
+    <string name="reset">дахин тохируулах</string>
+    <string name="medium_heart">дунд зэргийн</string>
+    <string name="large_number_error_toast">Алдаа: тоо хэт том байна</string> 
+    <string name="large_heart">том зүрх</string> 
+    <string name="large">Том</string> 
+    <string name="edit_starting_number">Тооны эхлэлийг засах</string> 
+    <string name="donate_title">Хандив</string> 
+    <string name="donate_message">Миний нэр бол Аманда. Хэрвээ та энэ аппликешнээ хөгжүүлж байгаа бол би хандивласан апп-г худалдан авах талаар бодоорой. Хандивын аппликейшн нь юу ч хийхгүй байна, гэхдээ таны хандив нь үнэ төлбөргүй хөгжүүлэх, зар сурталчилгаа үнэгүй програм хөгжүүлэхэд зарцуулсан цаг хугацаа гэдгийг надад харуулах болно. Баярлалаа!</string> 
+    <string name="donate_greeting">Сайн уу?</string> 
+    <string name="action_save_starting_number">Эхлэх дугаарыг хадгалах</string> 
+    <string name="small">Жижиг</string> 
+    <string name="medium">Дунд</string> 
+    <string name="app_name">Эзлэхүүний товч тоолуур</string> 
+ </resources>

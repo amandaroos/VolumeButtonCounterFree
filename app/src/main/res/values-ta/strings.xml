@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">டெவலப்பருக்கு நன்கொடை</string>
+    <string name="small_heart">சிறிய இதயம்</string>
+    <string name="reset">மீட்டமைக்க</string>
+    <string name="medium_heart">நடுத்தர இதயம்</string>
+    <string name="large_number_error_toast">பிழை: எண் மிகப் பெரியது</string> 
+    <string name="large_heart">பெரிய இதயம்</string> 
+    <string name="large">பெரிய</string> 
+    <string name="edit_starting_number">தொடக்க எண்ணைத் திருத்து</string> 
+    <string name="donate_title">நன்கொடை</string> 
+    <string name="donate_message">என் பெயர் அமண்டா.</string> 
+    <string name="donate_greeting">வணக்கம்!</string> 
+    <string name="action_save_starting_number">தொடக்க எண்ணைச் சேமிக்கவும்</string> 
+    <string name="small">சிறிய</string> 
+    <string name="medium">நடுத்தர</string> 
+    <string name="app_name">தொகுதி பொத்தான் கவுண்டர்</string> 
+ </resources>

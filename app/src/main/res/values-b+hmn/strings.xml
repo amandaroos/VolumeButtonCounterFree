@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Pub rau tus Tsim tawm</string>
+    <string name="small_heart">lub plawv me</string>
+    <string name="reset">pib dua</string>
+    <string name="medium_heart">nruab nrab lub plawv</string>
+    <string name="large_number_error_toast">Yuam kev: tus xov tooj loj heev</string> 
+    <string name="large_heart">lub plawv loj</string> 
+    <string name="large">Loj</string> 
+    <string name="edit_starting_number">Hloov Starting Number</string> 
+    <string name="donate_title">Pub dawb</string> 
+    <string name="donate_message">Kuv lub npe yog Amanda. Yog tias koj txaus siab rau cov app no kuv tau tsim, thov xav txog kev pub dawb Thov pub dawb tsis ua dab tsi, tab sis koj qhov pub dawb yuav qhia kuv tias kuv lub sijhawm siv kev pub dawb, tsis muaj cov apps tawm. Tsaug!</string> 
+    <string name="donate_greeting">Nyob zoo!</string> 
+    <string name="action_save_starting_number">Txuag Lub Naj Npawb Pib</string> 
+    <string name="small">Me me</string> 
+    <string name="medium">Nruab nrab</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

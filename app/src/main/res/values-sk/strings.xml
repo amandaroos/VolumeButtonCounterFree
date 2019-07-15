@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Prispejte vývojárovi</string>
+    <string name="small_heart">malé srdce</string>
+    <string name="reset">resetovať</string>
+    <string name="medium_heart">stredné srdce</string>
+    <string name="large_number_error_toast">Chyba: číslo je príliš veľké</string> 
+    <string name="large_heart">veľké srdce</string> 
+    <string name="large">Veľký</string> 
+    <string name="edit_starting_number">Upraviť počiatočné číslo</string> 
+    <string name="donate_title">darovať</string> 
+    <string name="donate_message">මගේ නම අමන්දා.</string> 
+    <string name="donate_greeting">Ahoj!</string> 
+    <string name="action_save_starting_number">Uložiť počiatočné číslo</string> 
+    <string name="small">malý</string> 
+    <string name="medium">stredná</string> 
+    <string name="app_name">Počítadlo tlačidiel hlasitosti</string> 
+ </resources>

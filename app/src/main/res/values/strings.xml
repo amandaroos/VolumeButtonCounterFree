@@ -1,23 +1,17 @@
 <resources>
-    <string name="app_name">Volume Button Counter Free</string>
+    <string name="app_name">Volume Button Counter</string>
 
     <!--Donation page-->
     <string name="action_donate">Donate to Developer</string>
     <string name="donate_title">Donate</string>
     <string name="donate_greeting">Hello!</string>
-    <string name="donate_message">My name is Amanda. If you are enjoying this app I developed,
-        please consider purchasing a donation item. The donation item does not do anything,
-        but your donation will show me that my time spent developing free, no-ads apps is appreciated. Thanks!</string>
+    <string name="donate_message">My name is Amanda. If you are enjoying this app I developed,please consider purchasing a donation app The donation app does not do anything, but your donation will show me that my time spent developing free, no-ads apps is appreciated. Thanks!</string>
     <string name="play_store_direct_link_blue" translatable="false">market://details?id=com.amandafarrell.www.donationfordeveloper_blue</string>
     <string name="play_store_browser_link_blue" translatable="false">https://play.google.com/store/apps/details?id=com.amandafarrell.www.donationfordeveloper_blue</string>
     <string name="play_store_direct_link_red" translatable="false">market://details?id=com.amandafarrell.www.donationfordeveloperred</string>
     <string name="play_store_browser_link_red" translatable="false">https://play.google.com/store/apps/details?id=com.amandafarrell.www.donationfordeveloperred</string>
     <string name="play_store_direct_link_black" translatable="false">market://details?id=com.amandafarrell.www.donationfordeveloperblack</string>
     <string name="play_store_browser_link_black" translatable="false">https://play.google.com/store/apps/details?id=com.amandafarrell.www.donationfordeveloperblack</string>
-    <string name="medium">Medium</string>
-    <string name="large">Large</string>
-    <string name="Small">Small</string>
-    <string name="button_donate">Try it on Google Play</string>
     <string name="small_heart">small heart</string>
     <string name="medium_heart">medium heart</string>
     <string name="large_heart">large heart</string>
@@ -28,7 +22,9 @@
     <string name="settings_number_default" translatable="false">0</string>
     <string name="settings_starting_number_key" translatable="false">starting_number_key</string>
     <string name="settings_starting_number_default" translatable="false">0</string>
-    <string name="button_edit_starting_number">Set Starting Number</string>
     <string name="action_save_starting_number">Save Starting Number</string>
     <string name="large_number_error_toast">Error: number is too large</string>
+    <string name="large">Large</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
 </resources>

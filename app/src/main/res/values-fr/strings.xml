@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Faire un don au développeur</string>
+    <string name="small_heart">petit coeur</string>
+    <string name="reset">réinitialiser</string>
+    <string name="medium_heart">coeur moyen</string>
+    <string name="large_number_error_toast">Erreur: le nombre est trop grand</string> 
+    <string name="large_heart">grand coeur</string> 
+    <string name="large">Grande</string> 
+    <string name="edit_starting_number">Modifier le numéro de départ</string> 
+    <string name="donate_title">Faire un don</string> 
+    <string name="donate_message">Mon nom est Amanda.</string> 
+    <string name="donate_greeting">salut!</string> 
+    <string name="action_save_starting_number">Enregistrer le numéro de départ</string> 
+    <string name="small">Petite</string> 
+    <string name="medium">Moyenne</string> 
+    <string name="app_name">Compteur de bouton de volume</string> 
+ </resources>

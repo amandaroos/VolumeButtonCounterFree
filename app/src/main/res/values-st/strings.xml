@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Fana ka Moqapi</string>
+    <string name="small_heart">pelo e nyenyane</string>
+    <string name="reset">tsosolosa</string>
+    <string name="medium_heart">pelo e ka hare</string>
+    <string name="large_number_error_toast">Phoso: nomoro e kholo haholo</string> 
+    <string name="large_heart">pelo e khōlō</string> 
+    <string name="large">E kholo</string> 
+    <string name="edit_starting_number">Hlahisa Ntho ea Qala</string> 
+    <string name="donate_title">Fana ka</string> 
+    <string name="donate_message">Моје име је Аманда. Ако уживате у овој апликацији коју сам развио, размислите о куповини апликације за донације. Хвала!</string>
+    <string name="donate_greeting">Lumela!</string> 
+    <string name="action_save_starting_number">Boloka Palo ea ho Qala</string> 
+    <string name="small">Nyenyane</string> 
+    <string name="medium">Bohareng</string> 
+    <string name="app_name">Buka ea Button Counter</string> 
+ </resources>

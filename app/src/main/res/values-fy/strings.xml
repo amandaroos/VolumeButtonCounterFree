@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Oanfreegje oan ûntwikkelders</string>
+    <string name="small_heart">lyts hert</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">medium hert</string>
+    <string name="large_number_error_toast">Flater: nûmer is te grut</string> 
+    <string name="large_heart">grutte hert</string> 
+    <string name="large">Grut</string> 
+    <string name="edit_starting_number">Startútgong bewurkje</string> 
+    <string name="donate_title">Donearje</string> 
+    <string name="donate_message">Myn namme is Amanda. As jo genietsje fan dizze app dy\'t ik ûntwikkele haw, beskôgje jo it oankeapjen fan in spesjale app De donaasje app tut neat, mar jo spesjaliteit sil my sjen litte dat myn tiid fergees ûntwikkelet, gjin advertinsjes apps wurde wurdearje. Tank!</string>
+    <string name="donate_greeting">Hoi!</string> 
+    <string name="action_save_starting_number">Startútgong bewarje</string> 
+    <string name="small">Lyts</string> 
+    <string name="medium">Medium</string> 
+    <string name="app_name">Volume Button Counter</string> 
+ </resources>

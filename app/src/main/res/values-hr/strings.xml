@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Donirajte programeru</string>
+    <string name="small_heart">malo srce</string>
+    <string name="reset">reset</string>
+    <string name="medium_heart">srednje srce</string>
+    <string name="large_number_error_toast">Pogreška: broj je prevelik</string> 
+    <string name="large_heart">veliko srce</string> 
+    <string name="large">veliki</string> 
+    <string name="edit_starting_number">Uredi početni broj</string> 
+    <string name="donate_title">darovati</string> 
+    <string name="donate_message">Moje ime je Amanda.</string> 
+    <string name="donate_greeting">Zdravo!</string> 
+    <string name="action_save_starting_number">Spremi početni broj</string> 
+    <string name="small">Mali</string> 
+    <string name="medium">Srednji</string> 
+    <string name="app_name">Brojač gumba za glasnoću</string> 
+ </resources>

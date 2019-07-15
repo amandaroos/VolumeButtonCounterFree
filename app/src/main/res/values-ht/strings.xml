@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">Donate Developer</string>
+    <string name="small_heart">ti kè</string>
+    <string name="reset">Reyajiste</string>
+    <string name="medium_heart">kè mwayen</string>
+    <string name="large_number_error_toast">Erè: nimewo a twò gwo</string> 
+    <string name="large_heart">gwo kè</string> 
+    <string name="large">Gwo</string> 
+    <string name="edit_starting_number">Edit Kòmanse Nimewo</string> 
+    <string name="donate_title">Donate</string> 
+    <string name="donate_message">Non mwen se Amanda. Si w ap jwi app sa a mwen devlope, tanpri konsidere achte yon app don Aplikasyon nan don pa fè anyen, men don ou yo pral montre m ke tan mwen te pase devlope gratis, app pa gen okenn-Ajoute apresye. Mèsi!</string> 
+    <string name="donate_greeting">Bonjou!</string> 
+    <string name="action_save_starting_number">Save Kòmanse Nimewo</string> 
+    <string name="small">Ti</string> 
+    <string name="medium">Mwayen</string> 
+    <string name="app_name">Volim Button Counter</string> 
+ </resources>

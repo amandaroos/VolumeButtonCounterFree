@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Đóng góp cho nhà phát triển</string>
+    <string name="small_heart">trái tim nhỏ</string>
+    <string name="reset">cài lại</string>
+    <string name="medium_heart">trái tim trung bình</string>
+    <string name="large_number_error_toast">Lỗi: số quá lớn</string> 
+    <string name="large_heart">trái tim rộng lớn</string> 
+    <string name="large">Lớn</string> 
+    <string name="edit_starting_number">Chỉnh sửa số bắt đầu</string> 
+    <string name="donate_title">Quyên góp</string> 
+    <string name="donate_message">Tôi tên là Amanda.</string> 
+    <string name="donate_greeting">Xin chào!</string> 
+    <string name="action_save_starting_number">Lưu số bắt đầu</string> 
+    <string name="small">Nhỏ bé</string> 
+    <string name="medium">Trung bình</string> 
+    <string name="app_name">Bộ đếm nút âm lượng</string> 
+ </resources>

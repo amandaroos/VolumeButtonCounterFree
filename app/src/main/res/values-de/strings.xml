@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Spende an Entwickler</string>
+    <string name="small_heart">kleines Herz</string>
+    <string name="reset">zurücksetzen</string>
+    <string name="medium_heart">mittleres Herz</string>
+    <string name="large_number_error_toast">Fehler: Nummer ist zu groß</string> 
+    <string name="large_heart">großes Herz</string> 
+    <string name="large">Groß</string> 
+    <string name="edit_starting_number">Startnummer bearbeiten</string> 
+    <string name="donate_title">Spenden</string> 
+    <string name="donate_message">Ich heiße Amanda. Wenn Ihnen diese App gefällt, die ich entwickelt habe, erwägen Sie bitte den Kauf einer Spenden-App. Die Spenden-App unternimmt nichts, aber Ihre Spende zeigt mir, dass ich dankbar dafür bin, dass ich meine Zeit mit der Entwicklung von kostenlosen Apps ohne Werbung verbracht habe. Vielen Dank!</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="action_save_starting_number">Speichern Sie die Startnummer</string> 
+    <string name="small">Klein</string> 
+    <string name="medium">Mittel</string> 
+    <string name="app_name">Lautstärkeregler</string> 
+ </resources>

@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_donate">Adományozz a fejlesztőnek</string>
+    <string name="small_heart">kis szív</string>
+    <string name="reset">Visszaállítás</string>
+    <string name="medium_heart">közepes szív</string>
+    <string name="large_number_error_toast">Hiba: a szám túl nagy</string> 
+    <string name="large_heart">nagy szív</string> 
+    <string name="large">Nagy</string> 
+    <string name="edit_starting_number">Kezdeti szám szerkesztése</string> 
+    <string name="donate_title">Adományoz</string> 
+    <string name="donate_message">A nevem Amanda.</string> 
+    <string name="donate_greeting">Szia!</string> 
+    <string name="action_save_starting_number">Kezdeti szám mentése</string> 
+    <string name="small">Kicsi</string> 
+    <string name="medium">Közepes</string> 
+    <string name="app_name">Kötet gomb számláló</string> 
+ </resources>

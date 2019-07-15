@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">বিকাশকারী দান করুন</string>
+    <string name="small_heart">ছোট হৃদয়</string>
+    <string name="reset">রিসেট</string>
+    <string name="medium_heart">মধ্যম হৃদয়</string>
+    <string name="large_number_error_toast">ত্রুটি: সংখ্যা খুব বড়</string> 
+    <string name="large_heart">বড় হৃদয়</string> 
+    <string name="large">বড়</string> 
+    <string name="edit_starting_number">শুরু সংখ্যা সম্পাদনা করুন</string> 
+    <string name="donate_title">দান করা</string> 
+    <string name="donate_message">আমার নাম আমেন্ডা. আপনি যদি এই অ্যাপ্লিকেশনটি উপভোগ করেন তবে আমি অনুগ্রহ করে একটি দান অ্যাপ্লিকেশন কেনার কথা বিবেচনা করি। দান অ্যাপ্লিকেশনটি কিছু না করে, তবে আপনার দান আমাকে দেখাবে যে আমার সময় বিনামূল্যে উন্নয়নশীল হয়েছে, কোনও বিজ্ঞাপন অ্যাপ্লিকেশনগুলি প্রশংসা করা হয়। ধন্যবাদ!</string> 
+    <string name="donate_greeting">হ্যালো!</string> 
+    <string name="action_save_starting_number">শুরু সংখ্যা সংরক্ষণ করুন</string> 
+    <string name="small">ছোট</string> 
+    <string name="medium">মধ্যম</string> 
+    <string name="app_name">ভলিউম বোতাম কাউন্টার</string> 
+ </resources>

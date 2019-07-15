@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_donate">વિકાસકર્તાને દાન કરો</string>
+    <string name="small_heart">નાનું હૃદય</string>
+    <string name="reset">ફરીથી સેટ કરો</string>
+    <string name="medium_heart">મધ્યમ હૃદય</string>
+    <string name="large_number_error_toast">ભૂલ: સંખ્યા ખૂબ મોટી છે</string> 
+    <string name="large_heart">મોટું હૃદય</string> 
+    <string name="large">મોટું</string> 
+    <string name="edit_starting_number">પ્રારંભ નંબર સંપાદિત કરો</string> 
+    <string name="donate_title">દાન કરો</string> 
+    <string name="donate_message">મારું નામ અમાન્દા છે. જો તમે આ એપ્લિકેશનનો આનંદ માણો છો, તો કૃપા કરીને દાન એપ્લિકેશન ખરીદવા પર વિચાર કરો. દાન એપ્લિકેશન કંઈ પણ કરતું નથી, પરંતુ તમારા દાનથી મને બતાવવામાં આવશે કે મારો સમય મફત વિકાસ કરવામાં પસાર થયો છે, કોઈ જાહેરાત એપ્લિકેશન્સની પ્રશંસા કરવામાં આવે છે. આભાર!</string> 
+    <string name="donate_greeting">હેલો!</string> 
+    <string name="action_save_starting_number">શરૂ કરી રહ્યા છીએ નંબર સાચવો</string> 
+    <string name="small">નાના</string> 
+    <string name="medium">મધ્યમ</string> 
+    <string name="app_name">વોલ્યુમ બટન કાઉન્ટર</string> 
+ </resources>
