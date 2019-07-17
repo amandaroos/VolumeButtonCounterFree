@@ -64,6 +64,7 @@ public class EditStartingNumberActivity extends AppCompatActivity {
                 saveStartingNumber();
                 setStartingNumberAsNumber();
                 finish();
+                return true;
         }
         return super.onOptionsItemSelected(item);
     }

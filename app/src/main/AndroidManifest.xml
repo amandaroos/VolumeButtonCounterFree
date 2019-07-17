@@ -23,7 +23,7 @@
             <!-- Parent activity meta-data to support 4.0 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.amandafarrell.www.volumebuttoncounterfree.MainActivity" />
         </activity>
         <activity
             android:name="com.amandafarrell.www.volumebuttoncounterfree.EditStartingNumberActivity"

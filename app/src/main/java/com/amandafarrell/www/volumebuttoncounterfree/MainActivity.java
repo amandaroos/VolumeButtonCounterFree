@@ -64,9 +64,13 @@ public class MainActivity extends AppCompatActivity {
         if ((keyCode == KeyEvent.KEYCODE_VOLUME_UP)) {
             number += 1;
             numberTextView.setText(String.valueOf(number));
+            //return true so that it doesn't trigger normal volume button functionality
+            return true;
         } else if (keyCode == KeyEvent.KEYCODE_VOLUME_DOWN) {
             number -= 1;
             numberTextView.setText(String.valueOf(number));
+            //return true so that it doesn't trigger normal volume button functionality
+            return true;
         }
 
         //Save number to SharedPreferences
@@ -75,8 +79,7 @@ public class MainActivity extends AppCompatActivity {
                         String.valueOf(number))
                 .apply();
 
-        //return true so that it doesn't trigger normal volume button functionality
-        return true;
+        return super.onKeyDown(keyCode,event);
     }
 
     @Override
@@ -91,9 +94,11 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_donate:
                 Intent intent = new Intent(MainActivity.this, DonateActivity.class);
                 startActivity(intent);
+                return true;
             case R.id.action_edit_starting_number:
                 Intent intent2 = new Intent(MainActivity.this, EditStartingNumberActivity.class);
                 startActivity(intent2);
+                return true;
         }
         return super.onOptionsItemSelected(item);
     }
